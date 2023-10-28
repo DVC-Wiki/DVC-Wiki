@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="css\style.css">
+    <script src="scripts\database.js"></script>
+    <title>Dragon Database</title>
+</head>
+<header>
+	<script id="replace_with_navbar" src="scripts\navbar.js"></script>
+</header>
+<body>
+    <div class="search-container">
+		<input type="text" id="searchInput" placeholder="Search Dragons...">
+		<span class="clear-search" id="clearSearch">X</span>
+	</div>
+    <table id="dragonTable">
+        <thead>
+            <tr>
+                <th style="width: 6%;">Dragon Name</th>
+                <th style="width: 5%;">Egg Description</th>
+                <th style="width: 5%;">Location</th>
+				<th style="width: 10%;">Care Options</th>
+				<th style="width: 5%;">Personality 1</th>
+				<th style="width: 5%;">Personality 2</th>
+				<th style="width: 8%;">Egg Sprite</th>
+                <th style="width: 14%;">Sprite Male</th>
+				<th style="width: 14%;">Sprite Female</th>
+				<th style="width: 14%;">Sprite Neutral/Special</th>
+                <th style="width: 14%;">Artwork</th>
+            </tr>
+        </thead>
+        <tbody id="tableBody"></tbody>
+    </table>
+</body>
+</html>

@@ -1,0 +1,3264 @@
+<dragons>
+    <dragon>
+        <dragonName>Abaddon - Gen1 Hellfire</dragonName>
+        <eggDescription>This Egg possesses a strong will for destruction.</eggDescription>
+        <location>Invite Quest (Moonlight Affairs)</location>
+		<eggSprite>..\media\sprites\abaddonEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\abaddonM.webp</spriteM>
+		<spriteF>..\media\sprites\abaddonF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\abaddonArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Abaddon - Gen2</dragonName>
+        <eggDescription>This Egg possesses a strong will for destruction.</eggDescription>
+        <location>Breeding (Abaddon x Any)</location>
+		<eggSprite>..\media\sprites\abaddonEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\abaddon2M.webp</spriteM>
+		<spriteF>..\media\sprites\abaddon2F.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\abaddonArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Abvalle</dragonName>
+        <eggDescription>This Egg is one with the golden wings.</eggDescription>
+        <location>Bond: "Hope of Light" (Rafael, Hurricane, Classy Emerald)</location>
+		<eggSprite>..\media\sprites\abvalleEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\abvalleM.webp</spriteM>
+		<spriteF>..\media\sprites\abvalleF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\abvalleArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Abyssedge</dragonName>
+        <eggDescription>This Egg has blade-like fins.</eggDescription>
+        <location>Quest</location>
+		<eggSprite>..\media\sprites\abyssedgeEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\abyssedgeM.webp</spriteM>
+		<spriteF>..\media\sprites\abyssedgeF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\abyssedgeArt.webp</artwork>
+   </dragon>
+   <dragon>
+        <dragonName>Aegis</dragonName>
+        <eggDescription>This Egg is wearing sacred golden armor.</eggDescription>
+        <location>Thorn Tree Forest</location>
+		<eggSprite>..\media\sprites\aegisEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\aegisM.webp</spriteM>
+		<spriteF>..\media\sprites\aegisF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\aegisArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Afrit</dragonName>
+        <eggDescription>This Egg is tightly sealed.</eggDescription>
+        <location>Rainbow Garden</location>
+		<eggSprite>..\media\sprites\afritEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\afritM.webp</spriteM>
+		<spriteF>..\media\sprites\afritF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\afritArt.webp</artwork>
+   </dragon>
+   <dragon>
+        <dragonName>Agnad</dragonName>
+        <eggDescription>This Egg is made of sturdy metal.</eggDescription>
+        <location>Wanderer (October 2023)</location>
+		<eggSprite>..\media\sprites\agnadEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\agnadM.webp</spriteM>
+		<spriteF>..\media\sprites\agnadF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\agnadArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Alien Dragon</dragonName>
+        <eggDescription>The ring around this Egg is very delicate.</eggDescription>
+        <location>Forest of Hope, Wrecked Ship, Mountain of Fire, Wind Temple, Sky Temple, Rainbow Garden</location>
+		<eggSprite>..\media\sprites\alienEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\alienM.webp</spriteM>
+		<spriteF>..\media\sprites\alienF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\alienArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Alien Dragon - Red</dragonName>
+        <eggDescription>The ring around this Egg is very delicate.</eggDescription>
+        <location>Wind Temple, Forest of Hope</location>
+		<eggSprite>..\media\sprites\alienEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\alienRedM.webp</spriteM>
+		<spriteF>..\media\sprites\alienRedF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\alienArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Anemone Dragon</dragonName>
+        <eggDescription>This egg lives in symbiosis.</eggDescription>
+        <location>Wrecked Ship</location>
+		<eggSprite>..\media\sprites\anemoneEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\anemoneM.webp</spriteM>
+		<spriteF>..\media\sprites\anemoneF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\anemoneArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Angel Cat - Gen2</dragonName>
+        <eggDescription>This Egg has a will to protect its owner.</eggDescription>
+        <location>Breeding (Angel Cat x Any)</location>
+		<eggSprite>..\media\sprites\angelCatEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\angelCat2M.webp</spriteM>
+		<spriteF>..\media\sprites\angelCat2F.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\angelCatArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Angel Cat - Gen1 Angel</dragonName>
+        <eggDescription>This Egg has a will to protect its owner.</eggDescription>
+        <location>Monthly Egg (August)</location>
+		<eggSprite>..\media\sprites\angelCatEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\angelCatAngelM.webp</spriteM>
+		<spriteF>..\media\sprites\angelCatAngelF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\angelCatArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Angel Cat - Gen1 Demon</dragonName>
+        <eggDescription>This Egg has a will to protect its owner.</eggDescription>
+        <location>Monthly Egg (August)</location>
+		<eggSprite>..\media\sprites\angelCatEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\angelCatDemonM.webp</spriteM>
+		<spriteF>..\media\sprites\angelCatDemonF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\angelCatArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Angel Cat - Gen1 Time Traveler</dragonName>
+        <eggDescription>This Egg has a will to protect its owner.</eggDescription>
+        <location>Monthly Egg (August)</location>
+		<eggSprite>..\media\sprites\angelCatEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\angelCatTravelerM.webp</spriteM>
+		<spriteF>..\media\sprites\angelCatTravelerF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\angelCatArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Angel Cat - Gen1 Doll Clothes</dragonName>
+        <eggDescription>This Egg has a will to protect its owner.</eggDescription>
+        <location>Monthly Egg (August)</location>
+		<eggSprite>..\media\sprites\angelCatEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\angelCatDollM.webp</spriteM>
+		<spriteF>..\media\sprites\angelCatDollF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\angelCatArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Angel Dragon</dragonName>
+        <eggDescription>This Egg has angel-like wings.</eggDescription>
+        <location>Sky Temple</location>
+		<eggSprite>..\media\sprites\angelEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\angelM.webp</spriteM>
+		<spriteF>..\media\sprites\angelF4.webp</spriteF>
+		<spriteN>..\media\sprites\angelF6.webp</spriteN>
+        <artwork>..\media\artwork\angelArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Dark Angel Dragon</dragonName>
+        <eggDescription>This Egg has Dark angel wings.</eggDescription>
+        <location>Evria</location>
+		<eggSprite>..\media\sprites\angelDarkEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\angelDarkM.webp</spriteM>
+		<spriteF>..\media\sprites\angelDarkF4.webp</spriteF>
+		<spriteN>..\media\sprites\angelDarkF6.webp</spriteN>
+        <artwork>..\media\artwork\angelDarkArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Angel Jr.</dragonName>
+        <eggDescription>This Egg has small wings.</eggDescription>
+        <location>Breeding (Angel x God)</location>
+		<eggSprite>..\media\sprites\angelJrEgg.webp</eggSprite>
+        <spriteM></spriteM>
+		<spriteF>..\media\sprites\angelJrF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\angelJrArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Angra</dragonName>
+        <eggDescription>This Egg bears God's Curse.</eggDescription>
+        <location>Rare PvP Reward</location>
+		<eggSprite>..\media\sprites\angraEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\angraM.webp</spriteM>
+		<spriteF>..\media\sprites\angraF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\angraArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Angra - Black</dragonName>
+        <eggDescription>This Egg has small wings.</eggDescription>
+        <location>Breeding - Angel x God</location>
+		<eggSprite>..\media\sprites\angraEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\angraBlackM.webp</spriteM>
+		<spriteF>..\media\sprites\angraBlackF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\angraArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Animala</dragonName>
+        <eggDescription>This Egg is accompanied by souls.</eggDescription>
+        <location>Altar of Darkness</location>
+		<eggSprite>..\media\sprites\animalaEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\animalaM.webp</spriteM>
+		<spriteF>..\media\sprites\animalaF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\animalaArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Applecheek - Summer</dragonName>
+        <eggDescription>This Egg has large red spots on its sides.</eggDescription>
+        <location>Forest of Hope</location>
+		<eggSprite>..\media\sprites\appleEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\appleM.webp</spriteM>
+		<spriteF>..\media\sprites\appleF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\appleArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Applecheek - Fall</dragonName>
+        <eggDescription>This Egg has large red spots on its sides.</eggDescription>
+        <location>Forest of Hope</location>
+		<eggSprite>..\media\sprites\appleEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\appleFallM.webp</spriteM>
+		<spriteF>..\media\sprites\appleFallF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\appleArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>White Applecheek</dragonName>
+        <eggDescription>???</eggDescription>
+        <location>Forest of Hope</location>
+		<eggSprite>..\media\sprites\appleWhiteEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\appleWhiteM.webp</spriteM>
+		<spriteF>..\media\sprites\appleWhiteF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\appleWhiteArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Gold Applecheek</dragonName>
+        <eggDescription>These Egg smell like sour apples.</eggDescription>
+        <location>Evria</location>
+		<eggSprite>..\media\sprites\appleGoldEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\appleGoldM.webp</spriteM>
+		<spriteF>..\media\sprites\appleGoldF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\appleGoldArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Artemis</dragonName>
+        <eggDescription>This Egg wears a shiny crown.</eggDescription>
+        <location>Quest</location>
+		<eggSprite>..\media\sprites\artemisEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\artemisM.webp</spriteM>
+		<spriteF>..\media\sprites\artemisF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\artemisArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Asti</dragonName>
+        <eggDescription>This Egg uses its horns to protect itself.</eggDescription>
+        <location>Forest of Hope, Wrecked Ship, Wind Temple</location>
+		<eggSprite>..\media\sprites\astiEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\astiM.webp</spriteM>
+		<spriteF>..\media\sprites\astiF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\astiArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Asti - Fury</dragonName>
+        <eggDescription>This Egg uses its horns to protect itself.</eggDescription>
+        <location>Ability; abandoned dragon</location>
+		<eggSprite>..\media\sprites\astiEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\astiFuryM.webp</spriteM>
+		<spriteF>..\media\sprites\astiFuryF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\astiArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Azak</dragonName>
+        <eggDescription>This Egg has large claws.</eggDescription>
+        <location>Quest</location>
+		<eggSprite>..\media\sprites\azakEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\azakM.webp</spriteM>
+		<spriteF>..\media\sprites\azakF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\azakArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Baal</dragonName>
+        <eggDescription>This Egg has fins.</eggDescription>
+        <location>Wrecked Ship</location>
+		<eggSprite>..\media\sprites\baalEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\baalM.webp</spriteM>
+		<spriteF>..\media\sprites\baalF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\baalArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Baekho</dragonName>
+        <eggDescription>This Egg exudes a divine aura.</eggDescription>
+        <location>Altar of Darkness</location>
+		<eggSprite>..\media\sprites\baekhoEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\baekhoM.webp</spriteM>
+		<spriteF>..\media\sprites\baekhoF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\baekhoArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Banshee</dragonName>
+        <eggDescription>This Egg exudes a formidable power.</eggDescription>
+        <location>Help Reuqest (Altar of Darkness), 5 Eerie Cloth</location>
+		<eggSprite>..\media\sprites\bansheeEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\bansheeM.webp</spriteM>
+		<spriteF>..\media\sprites\bansheeF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\bansheeArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Bearded Dragon - Gen1 Lizard Kingdom</dragonName>
+        <eggDescription>This Egg carries the will of the Lizard Kingdom.</eggDescription>
+        <location>Limited Collab (Jungbrre)</location>
+		<eggSprite>..\media\sprites\beardedEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\beardedM.webp</spriteM>
+		<spriteF>..\media\sprites\beardedF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\beardedArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Bearded Dragon - Gen2 Desert Kingdom</dragonName>
+        <eggDescription>This Egg carries the will of the Lizard Kingdom.</eggDescription>
+        <location>loc</location>
+		<eggSprite>..\media\sprites\beardedEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\beardedDesertM.webp</spriteM>
+		<spriteF>..\media\sprites\beardedDesertF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\beardedArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Bearded Dragon - Gen2 Ice Kingdom</dragonName>
+        <eggDescription>This Egg carries the will of the Lizard Kingdom.</eggDescription>
+        <location>loc</location>
+		<eggSprite>..\media\sprites\beardedEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\beardedIceM.webp</spriteM>
+		<spriteF>..\media\sprites\beardedIceF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\beardedArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Bearded Dragon - Gen2 Underground Kingdom</dragonName>
+        <eggDescription>This Egg carries the will of the Lizard Kingdom.</eggDescription>
+        <location>loc</location>
+		<eggSprite>..\media\sprites\beardedEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\beardedUnderM.webp</spriteM>
+		<spriteF>..\media\sprites\beardedUnderF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\beardedArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Bearded Dragon - Gen2 Default</dragonName>
+        <eggDescription>This Egg carries the will of the Lizard Kingdom.</eggDescription>
+        <location>loc</location>
+		<eggSprite>..\media\sprites\beardedEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\bearded2M.webp</spriteM>
+		<spriteF>..\media\sprites\bearded2F.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\beardedArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Beleth</dragonName>
+        <eggDescription>This Egg can sense ominous presences.</eggDescription>
+        <location>Altar of Darkness</location>
+		<eggSprite>..\media\sprites\belethEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\belethM.webp</spriteM>
+		<spriteF>..\media\sprites\belethF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\belethArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Black Dragon</dragonName>
+        <eggDescription>This Egg forms a blanket of dark fog around it.</eggDescription>
+        <location>Achievement (Complete 50 and 100 Dragon Book Entries)</location>
+		<eggSprite>..\media\sprites\blackEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\blackM.webp</spriteM>
+		<spriteF></spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\blackArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Black Armor</dragonName>
+        <eggDescription>This Egg is wearing a helmet.</eggDescription>
+        <location>Wind Temple</location>
+		<eggSprite>..\media\sprites\blackArmorEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\blackArmorM.webp</spriteM>
+		<spriteF>..\media\sprites\blackArmorF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\blackArmorArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Black Armor - Spear</dragonName>
+        <eggDescription>This Egg is wearing a helmet studded with a green jewel.</eggDescription>
+        <location>Breeding (Black Armor x Spike)</location>
+		<eggSprite>..\media\sprites\blackArmorSpearEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\blackArmorSpearM.webp</spriteM>
+		<spriteF>..\media\sprites\blackArmorSpearF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\blackArmorArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Black Armor - Sword</dragonName>
+        <eggDescription>This Egg is wearing a helmet studded with a blue jewel.</eggDescription>
+        <location>Breeding (Black Armor x Brave/Bold/Careful)</location>
+		<eggSprite>..\media\sprites\blackArmorSwordEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\blackArmorSwordM.webp</spriteM>
+		<spriteF>..\media\sprites\blackArmorSwordF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\blackArmorArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Blade Dragon</dragonName>
+        <eggDescription>This Egg has tiny blades protruding from it.</eggDescription>
+        <location>Altar of Darkness, Crystal Mine, Thorn Tree Forest, Tomb of Ancient Dragons</location>
+		<eggSprite>..\media\sprites\bladeEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\bladeM.webp</spriteM>
+		<spriteF>..\media\sprites\bladeF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\bladeArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Blue Dragon</dragonName>
+        <eggDescription>This Egg has horns and skin on its belly.</eggDescription>
+        <location>Forest of Hope, Mountain of Fire, Wind Temple</location>
+		<eggSprite>..\media\sprites\blueEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\blueM.webp</spriteM>
+		<spriteF>..\media\sprites\blueF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\blueArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Blue Lightning Dragon</dragonName>
+        <eggDescription>Electricity flows through this Egg.</eggDescription>
+        <location>Wrecked Ship</location>
+		<eggSprite>..\media\sprites\blueLightningEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\blueLightningM.webp</spriteM>
+		<spriteF>..\media\sprites\blueLightningF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\blueLightningArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Blue Thunder</dragonName>
+        <eggDescription>Lightning gathers around this Egg.</eggDescription>
+        <location>Rainbow Garden</location>
+		<eggSprite>..\media\sprites\blueThunderEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\blueThunderM.webp</spriteM>
+		<spriteF>..\media\sprites\blueThunderF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\blueThunderArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Bomber Dragon</dragonName>
+        <eggDescription>This Egg explodes like a bomb.</eggDescription>
+        <location>Mountain of Fire</location>
+		<eggSprite>..\media\sprites\bomberEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\bomberM.webp</spriteM>
+		<spriteF>..\media\sprites\bomberF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\bomberArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Bonehead</dragonName>
+        <eggDescription>This Egg is covered with bones.</eggDescription>
+        <location>Quest</location>
+		<eggSprite>..\media\sprites\boneheadEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\boneheadM.webp</spriteM>
+		<spriteF>..\media\sprites\boneheadF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\boneheadArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Catsgon</dragonName>
+        <eggDescription>This Egg has a small bell on it.</eggDescription>
+        <location>Quest</location>
+		<eggSprite>..\media\sprites\catsgonEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\catsgonM.webp</spriteM>
+		<spriteF>..\media\sprites\catsgonF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\catsgonArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Centipede Dragon</dragonName>
+        <eggDescription>This Egg is venomous.</eggDescription>
+        <location>Forest of Hope</location>
+		<eggSprite>..\media\sprites\centipedeEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\centipedeM.webp</spriteM>
+		<spriteF>..\media\sprites\centipedeF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\centipedeArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Centura</dragonName>
+        <eggDescription>This Egg is trapped in blue flames.</eggDescription>
+        <location>Quest</location>
+		<eggSprite>..\media\sprites\centuraEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\centuraM.webp</spriteM>
+		<spriteF>..\media\sprites\centuraF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\centuraArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Characen</dragonName>
+        <eggDescription>This Egg has a keyhole.</eggDescription>
+        <location>Wanderer (May 2023)</location>
+		<eggSprite>..\media\sprites\characenEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\characenM.webp</spriteM>
+		<spriteF>..\media\sprites\characenF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\characenArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Blue Characen</dragonName>
+        <eggDescription>This Egg has a blue keyhole.</eggDescription>
+        <location>Breeding (Characen x Any Water)</location>
+		<eggSprite>..\media\sprites\characenBlueEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\characenBlueM.webp</spriteM>
+		<spriteF>..\media\sprites\characenBlueF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\characenArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Citael</dragonName>
+        <eggDescription>This Egg defends itself with its horns and fangs.</eggDescription>
+        <location>Help Request (Sky Temple), 3 Ancient Spears</location>
+		<eggSprite>..\media\sprites\citaelEgg.webp</eggSprite>
+        <spriteM></spriteM>
+		<spriteF></spriteF>
+		<spriteN>..\media\sprites\citaelN.webp</spriteN>
+        <artwork>..\media\artwork\citaelArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Clockwork Dragon</dragonName>
+        <eggDescription>This Egg's spring has to be wound up.</eggDescription>
+        <location>Altar of Darkness, Crystal Mine, Thorn Tree Forest, Tomb of Ancient Dragons</location>
+		<eggSprite>..\media\sprites\clockEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\clockM.webp</spriteM>
+		<spriteF>..\media\sprites\clockF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\clockArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Cloud Dragon</dragonName>
+        <eggDescription>This Egg is with the cloud.</eggDescription>
+        <location>Sky Temple</location>
+		<eggSprite>..\media\sprites\cloudEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\cloudM.webp</spriteM>
+		<spriteF>..\media\sprites\cloudF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\cloudArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Dark Cloud Dragon</dragonName>
+        <eggDescription>This Egg is with the dark clouds.</eggDescription>
+        <location>Breeding (Cloud x Quiet/Careful/Quirky)</location>
+		<eggSprite>..\media\sprites\cloudDarkEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\cloudDarkM.webp</spriteM>
+		<spriteF>..\media\sprites\cloudDarkF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\cloudArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Cobragon</dragonName>
+        <eggDescription>This Egg is covered with thick scales.</eggDescription>
+        <location>Breeding (Serpent x Any)</location>
+		<eggSprite>..\media\sprites\cobraEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\cobraM.webp</spriteM>
+		<spriteF>..\media\sprites\cobraF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\cobraArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Crested Dragon - Default</dragonName>
+        <eggDescription>This Egg seems to have a round core.</eggDescription>
+        <location>Wind Temple</location>
+		<eggSprite>..\media\sprites\crestedEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\crestedM.webp</spriteM>
+		<spriteF>..\media\sprites\crestedF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\crestedArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Crested Dragon - Dalmatian</dragonName>
+        <eggDescription>desc</eggDescription>
+        <location>loc</location>
+		<eggSprite>..\media\sprites\crestedEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\crestedDalmatianM.webp</spriteM>
+		<spriteF>..\media\sprites\crestedDalmatianF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\crestedArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Crested Dragon - Cappuccino</dragonName>
+        <eggDescription>desc</eggDescription>
+        <location>loc</location>
+		<eggSprite>..\media\sprites\crestedEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\crestedCappuccinoM.webp</spriteM>
+		<spriteF>..\media\sprites\crestedCappuccinoF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\crestedArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Crested Dragon - White</dragonName>
+        <eggDescription>desc</eggDescription>
+        <location>loc</location>
+		<eggSprite>..\media\sprites\crestedEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\crestedWhiteM.webp</spriteM>
+		<spriteF>..\media\sprites\crestedWhiteF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\crestedArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Cupi Friend - Tier 1</dragonName>
+        <eggDescription>This Egg brings a symbol of good luck.</eggDescription>
+        <location>Invite Quest</location>
+		<eggSprite>..\media\sprites\cupi1Egg.webp</eggSprite>
+        <spriteM>..\media\sprites\cupi1M.webp</spriteM>
+		<spriteF>..\media\sprites\cupi1F.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\cupiArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Cupi Friend - Tier 2</dragonName>
+        <eggDescription>This Egg brings a symbol of good luck.</eggDescription>
+        <location>Invite Quest</location>
+		<eggSprite>..\media\sprites\cupi2Egg.webp</eggSprite>
+        <spriteM>..\media\sprites\cupi2M.webp</spriteM>
+		<spriteF>..\media\sprites\cupi2F.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\cupiArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Cupi Friend - Tier 3</dragonName>
+        <eggDescription>This Egg brings a symbol of good luck.</eggDescription>
+        <location>Invite Quest</location>
+		<eggSprite>..\media\sprites\cupi3Egg.webp</eggSprite>
+        <spriteM>..\media\sprites\cupi3M.webp</spriteM>
+		<spriteF>..\media\sprites\cupi3F.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\cupiArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Cupid</dragonName>
+        <eggDescription>This Egg has a heart shape in the middle.</eggDescription>
+        <location>Forest of Hope</location>
+		<eggSprite>..\media\sprites\cupidEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\cupidM.webp</spriteM>
+		<spriteF>..\media\sprites\cupidF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\cupidArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Cupid - Unknown</dragonName>
+        <eggDescription>TBA</eggDescription>
+        <location>TBA</location>
+		<eggSprite>..\media\sprites\cupidEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\cupidUnknownM.webp</spriteM>
+		<spriteF>..\media\sprites\cupidUnknownF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\cupidArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Jealousy Cupid</dragonName>
+        <eggDescription>This Egg symbolizes the arrow of jealousy.	</eggDescription>
+        <location>Evria</location>
+		<eggSprite>..\media\sprites\cupidJealousEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\cupidJealousM.webp</spriteM>
+		<spriteF>..\media\sprites\cupidJealousF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\cupidJealousArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Darknix</dragonName>
+        <eggDescription>Be careful of the red power this Egg holds.</eggDescription>
+        <location>Fight in Dungeon (God, Frost, Power, Lightning)</location>
+		<eggSprite>..\media\sprites\darknixEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\darknixM.webp</spriteM>
+		<spriteF>..\media\sprites\darknixF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\darknixArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Light Darknix</dragonName>
+        <eggDescription>This Egg's light lets out strong energy.</eggDescription>
+        <location>Bond: "The Beginning of the Dark Four Great Dragons, World Created by Light(</location>
+		<eggSprite>..\media\sprites\darknixLightEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\darknixLightM.webp</spriteM>
+		<spriteF>..\media\sprites\darknixLightF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\darknixLightArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Demong and Gargoyle</dragonName>
+        <eggDescription>This Egg emanates a demonic aura.</eggDescription>
+        <location>Altar of Darkness</location>
+		<eggSprite>..\media\sprites\demongGargoyleEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\demongGargoyleM.webp</spriteM>
+		<spriteF>..\media\sprites\demongGargoyleF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\demongGargoyleArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Deva</dragonName>
+        <eggDescription>This Egg has an unknown pattern on it.	</eggDescription>
+        <location>Quest</location>
+		<eggSprite>..\media\sprites\devaEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\devaM.webp</spriteM>
+		<spriteF></spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\devaArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Devared</dragonName>
+        <eggDescription>This egg has a mysterious red pattern on it.</eggDescription>
+        <location>Wind Temple</location>
+		<eggSprite>..\media\sprites\devaredEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\devaredM.webp</spriteM>
+		<spriteF></spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\devaredArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Irondeva</dragonName>
+        <eggDescription>This egg has a mysterious green pattern on it.</eggDescription>
+        <location>Forest of Hope</location>
+		<eggSprite>..\media\sprites\irondevaEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\irondevaM.webp</spriteM>
+		<spriteF></spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\irondevaArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Devilgon</dragonName>
+        <eggDescription>This Egg resonates with the spirit of dead Dragons.</eggDescription>
+        <location>Altar of Darkness</location>
+		<eggSprite>..\media\sprites\devilgonEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\devilgonM.webp</spriteM>
+		<spriteF>..\media\sprites\devilgonF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\devilgonArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Dianu - Gen2</dragonName>
+        <eggDescription>This Egg waits for the portal.</eggDescription>
+        <location>Breeding (Dianu x Any)</location>
+		<eggSprite>..\media\sprites\dianuEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\dianu2M.webp</spriteM>
+		<spriteF>..\media\sprites\dianu2F.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\dianuArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Dianu - Gen1</dragonName>
+        <eggDescription>This Egg waits for the portal.</eggDescription>
+        <location>Card Code</location>
+		<eggSprite>..\media\sprites\dianuEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\dianuM.webp</spriteM>
+		<spriteF>..\media\sprites\dianuF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\dianuArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Dianu - Gen1 Warden</dragonName>
+        <eggDescription>This Egg waits for the portal.</eggDescription>
+        <location>Card Code</location>
+		<eggSprite>..\media\sprites\dianuEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\dianuWardenM.webp</spriteM>
+		<spriteF>..\media\sprites\dianuWardenF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\dianuWardenArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Dimension Dragon</dragonName>
+        <eggDescription>This Egg is found at the Dimensional Gap.	</eggDescription>
+        <location>One of each Card Code Dragons (Porta, Feros, Dianu)</location>
+		<eggSprite>..\media\sprites\dimensionEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\dimensionM.webp</spriteM>
+		<spriteF>..\media\sprites\dimensionF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\dimensionArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Dimension Dragon - Gen2</dragonName>
+        <eggDescription>This Egg is found at the Dimensional Gap.	</eggDescription>
+        <location>Breeding (Dimension x Any)</location>
+		<eggSprite>..\media\sprites\dimensionEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\dimension2M.webp</spriteM>
+		<spriteF>..\media\sprites\dimension2F.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\dimensionArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Dragonoid</dragonName>
+        <eggDescription>This Egg consists of solid steel.</eggDescription>
+        <location>Tomb of Ancient Dragons</location>
+		<eggSprite>..\media\sprites\dragonoidEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\dragonoidM.webp</spriteM>
+		<spriteF>..\media\sprites\dragonoidF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\dragonoidArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Dragonoid Soul</dragonName>
+        <eggDescription>This Egg is made of steel infused with souls.</eggDescription>
+        <location>Breeding (Dragonoid x Animala)</location>
+		<eggSprite>..\media\sprites\dragonoidSoulEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\dragonoidSoulM.webp</spriteM>
+		<spriteF>..\media\sprites\dragonoidSoulF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\dragonoidSoulArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Egg Dragon</dragonName>
+        <eggDescription>This Egg has saliva on it.</eggDescription>
+        <location>Forest of Hope, Wrecked Ship, Rainbow Garden</location>
+		<eggSprite>..\media\sprites\eggEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\eggM.webp</spriteM>
+		<spriteF>..\media\sprites\eggF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\eggArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Egg Dragon - Capsaicin</dragonName>
+        <eggDescription>desc</eggDescription>
+        <location>loc</location>
+		<eggSprite>..\media\sprites\eggEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\eggRedM.webp</spriteM>
+		<spriteF></spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\eggRedArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Elderly Dragon</dragonName>
+        <eggDescription>This Egg reflects the passage of time.</eggDescription>
+        <location>Quest</location>
+		<eggSprite>..\media\sprites\elderlyEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\elderlyM.webp</spriteM>
+		<spriteF>..\media\sprites\elderlyF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\elderlyArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Emerald Dragon</dragonName>
+        <eggDescription>Slightly blueish, this Egg is wearing a crown.</eggDescription>
+        <location>Rainbow Garden</location>
+		<eggSprite>..\media\sprites\emeraldEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\emeraldM.webp</spriteM>
+		<spriteF>..\media\sprites\emeraldF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\emeraldArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Ereboss</dragonName>
+        <eggDescription>This Egg possess the power of blackness.</eggDescription>
+        <location>Crystal Mine</location>
+		<eggSprite>..\media\sprites\erebossEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\erebossM.webp</spriteM>
+		<spriteF>..\media\sprites\erebossF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\erebossArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Fat</dragonName>
+        <eggDescription>This Egg comes with a shield.</eggDescription>
+        <location>Rainbow Garden</location>
+		<eggSprite>..\media\sprites\fatEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\fatM.webp</spriteM>
+		<spriteF>..\media\sprites\fatF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\fatArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Feros - Gen2</dragonName>
+        <eggDescription>This egg waits for the portal to open.	</eggDescription>
+        <location>Breeding (Feros x Any)</location>
+		<eggSprite>..\media\sprites\ferosEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\feros2M.webp</spriteM>
+		<spriteF>..\media\sprites\feros2F.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\ferosArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Feros - Gen1</dragonName>
+        <eggDescription>This egg waits for the portal to open.	</eggDescription>
+        <location>Card Code</location>
+		<eggSprite>..\media\sprites\ferosEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\ferosM.webp</spriteM>
+		<spriteF>..\media\sprites\ferosF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\ferosArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Feros - Gen1 Warden</dragonName>
+        <eggDescription>This egg waits for the portal to open.	</eggDescription>
+        <location>Card Code</location>
+		<eggSprite>..\media\sprites\ferosEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\ferosWardenM.webp</spriteM>
+		<spriteF>..\media\sprites\ferosWardenF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\ferosWardenArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Fire Dragon</dragonName>
+        <eggDescription>This Egg is red and burning hot.</eggDescription>
+        <location>Mountain of Fire</location>
+		<eggSprite>..\media\sprites\fireEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\fireM.webp</spriteM>
+		<spriteF>..\media\sprites\fireF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\fireArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Fire Ghost Dragon</dragonName>
+        <eggDescription>This Egg has burning flames.</eggDescription>
+        <location>Crystal Mine</location>
+		<eggSprite>..\media\sprites\fireGhostEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\fireGhostM.webp</spriteM>
+		<spriteF>..\media\sprites\fireGhostF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\fireGhostArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Firetail</dragonName>
+        <eggDescription>The fur of this egg is very soft.</eggDescription>
+        <location>Help Request (Mountain of Fire), 3 Nine-tailed Foxes</location>
+		<eggSprite>..\media\sprites\firetailEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\firetailM.webp</spriteM>
+		<spriteF>..\media\sprites\firetailF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\firetailArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Blue Firetail</dragonName>
+        <eggDescription>desc</eggDescription>
+        <location>loc</location>
+		<eggSprite>..\media\sprites\firetailBlueEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\firetailBlueM.webp</spriteM>
+		<spriteF>..\media\sprites\firetailBlueF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\firetailBlueArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Flame Dragon</dragonName>
+        <eggDescription>The flames around this Egg never cool down.</eggDescription>
+        <location>Help Request (Wind Temple), 5 Torches</location>
+		<eggSprite>..\media\sprites\flameEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\flameM.webp</spriteM>
+		<spriteF>..\media\sprites\flameF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\flameArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Florea</dragonName>
+        <eggDescription>This Egg can see destinies.</eggDescription>
+        <location>Thorn Tree Forest</location>
+		<eggSprite>..\media\sprites\floreaEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\floreaM.webp</spriteM>
+		<spriteF>..\media\sprites\floreaF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\floreaArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Flower Dragon</dragonName>
+        <eggDescription>This Egg is like a flower.</eggDescription>
+        <location>Help Request (Rainbow Garden), 3 Lillies 3 Roses, 3 Sunflowers, 3 Tulips, 3 Lilacs</location>
+		<eggSprite>..\media\sprites\flowerEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\flowerM.webp</spriteM>
+		<spriteF>..\media\sprites\flowerF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\flowerArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Frog Dragon - Spring</dragonName>
+        <eggDescription>This Egg is smooth but has coarse hairs.</eggDescription>
+        <location>Forest of Hope</location>
+		<eggSprite>..\media\sprites\frogEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\frogSpringM.webp</spriteM>
+		<spriteF>..\media\sprites\frogSpringF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\frogArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Frog Dragon - Summer</dragonName>
+        <eggDescription>This Egg is smooth but has coarse hairs.</eggDescription>
+        <location>Forest of Hope</location>
+		<eggSprite>..\media\sprites\frogEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\frogSummerM.webp</spriteM>
+		<spriteF>..\media\sprites\frogSummerF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\frogArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Frog Dragon - Autumn</dragonName>
+        <eggDescription>This Egg is smooth but has coarse hairs.</eggDescription>
+        <location>Forest of Hope</location>
+		<eggSprite>..\media\sprites\frogEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\frogAutumnM.webp</spriteM>
+		<spriteF>..\media\sprites\frogAutumnF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\frogArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Frog Dragon - Winter</dragonName>
+        <eggDescription>This Egg is smooth but has coarse hairs.</eggDescription>
+        <location>Forest of Hope</location>
+		<eggSprite>..\media\sprites\frogEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\frogWinterM.webp</spriteM>
+		<spriteF>..\media\sprites\frogWinterF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\frogArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Frost Dragon</dragonName>
+        <eggDescription>This Egg is very cold.</eggDescription>
+        <location>Wrecked Ship</location>
+		<eggSprite>..\media\sprites\frostEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\frostM.webp</spriteM>
+		<spriteF>..\media\sprites\frostF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\frostArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Snow Frost Dragon</dragonName>
+        <eggDescription>This Egg has cold air around it.</eggDescription>
+        <location>Evria</location>
+		<eggSprite>..\media\sprites\frostSnowEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\frostSnowM.webp</spriteM>
+		<spriteF>..\media\sprites\frostSnowF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\frostSnowArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Frost Blue Dragon</dragonName>
+        <eggDescription>This Egg's ice doesn't melt.</eggDescription>
+        <location>Breeding (Frost x Blue)</location>
+		<eggSprite>..\media\sprites\frostBlueEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\frostBlueM.webp</spriteM>
+		<spriteF>..\media\sprites\frostBlueF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\frostBlueArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Gaian</dragonName>
+        <eggDescription>This Egg has unbreakable scales.	</eggDescription>
+        <location>Wanderer (August 2023)</location>
+		<eggSprite>..\media\sprites\gaianEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\gaianM.webp</spriteM>
+		<spriteF>..\media\sprites\gaianF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\gaianArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Gautling-Gon</dragonName>
+        <eggDescription>This Egg is equipped with a gun.</eggDescription>
+        <location>Wanderer (October 2023)</location>
+		<eggSprite>..\media\sprites\gautlingEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\gautlingM.webp</spriteM>
+		<spriteF>..\media\sprites\gautlingF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\gautlingArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Girdletail Dragon - Default</dragonName>
+        <eggDescription>The dragon inside this egg has a curled-up tail.</eggDescription>
+        <location>Breeding (Basic Skink x Basic Crested)</location>
+		<eggSprite>..\media\sprites\girdleEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\girdleM.webp</spriteM>
+		<spriteF>..\media\sprites\girdleF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\girdleArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Girdletail Dragon - Graywater</dragonName>
+        <eggDescription>desc</eggDescription>
+        <location>loc</location>
+		<eggSprite>..\media\sprites\girdleEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\girdleGreyM.webp</spriteM>
+		<spriteF>..\media\sprites\girdleGreyF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\girdleArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Girdletail Dragon - Flame</dragonName>
+        <eggDescription>desc</eggDescription>
+        <location>loc</location>
+		<eggSprite>..\media\sprites\girdleEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\girdleFlameM.webp</spriteM>
+		<spriteF>..\media\sprites\girdleFlameF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\girdleArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Girdletail Dragon - Crystal</dragonName>
+        <eggDescription>desc</eggDescription>
+        <location>loc</location>
+		<eggSprite>..\media\sprites\girdleEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\girdleCrystalM.webp</spriteM>
+		<spriteF>..\media\sprites\girdleCrystalF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\girdleArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Goblin Dragon</dragonName>
+        <eggDescription>This Egg can sense evil spirits.</eggDescription>
+        <location>Wanderer (June 2023)</location>
+		<eggSprite>..\media\sprites\goblinEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\goblinM.webp</spriteM>
+		<spriteF>..\media\sprites\goblinF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\goblinArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>God Dragon</dragonName>
+        <eggDescription>This Egg has yellow spots.</eggDescription>
+        <location>Sky Temple</location>
+		<eggSprite>..\media\sprites\godEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\godM.webp</spriteM>
+		<spriteF>..\media\sprites\godF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\godArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Dark God Dragon</dragonName>
+        <eggDescription>This Egg has a Dark spot.</eggDescription>
+        <location>Evria</location>
+		<eggSprite>..\media\sprites\godDarkEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\godDarkM.webp</spriteM>
+		<spriteF>..\media\sprites\godDarkF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\godDarkArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>God Jr.</dragonName>
+        <eggDescription>This Egg's horns look like whipped cream.</eggDescription>
+        <location>Breeding (God x Angel)</location>
+		<eggSprite>..\media\sprites\godJrEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\godJrM.webp</spriteM>
+		<spriteF></spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\godJrArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Gold Dragon</dragonName>
+        <eggDescription>This Egg is made of pure gold.</eggDescription>
+        <location>Underground Dragon Ability</location>
+		<eggSprite>..\media\sprites\goldEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\goldM.webp</spriteM>
+		<spriteF>..\media\sprites\goldF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\goldArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>White Gold Dragon</dragonName>
+        <eggDescription>This Egg is made of platinum.</eggDescription>
+        <location>Breeding (Gold x Any)</location>
+		<eggSprite>..\media\sprites\goldWhiteEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\goldWhiteM.webp</spriteM>
+		<spriteF>..\media\sprites\goldWhiteF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\goldWhiteArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Rose Gold Dragon</dragonName>
+        <eggDescription>This Egg is made of rose gold.</eggDescription>
+        <location>Breeding (Gold x Any)</location>
+		<eggSprite>..\media\sprites\goldRoseEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\goldRoseM.webp</spriteM>
+		<spriteF>..\media\sprites\goldRoseF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\goldRoseArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Goldie</dragonName>
+        <eggDescription>This Egg has a gold shaped mark.</eggDescription>
+        <location>Wind Temple</location>
+		<eggSprite>..\media\sprites\goldieEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\goldieM.webp</spriteM>
+		<spriteF>..\media\sprites\goldieF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\goldieArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Gracia</dragonName>
+        <eggDescription>This Egg breathes with its smooth shell.</eggDescription>
+        <location>Wanderer (July 2023)</location>
+		<eggSprite>..\media\sprites\graciaEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\graciaM.webp</spriteM>
+		<spriteF>..\media\sprites\graciaF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\graciaArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Gust</dragonName>
+        <eggDescription>This Egg holds the energy of gusts of wind.</eggDescription>
+        <location>Wind Temple</location>
+		<eggSprite>..\media\sprites\gustEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\gustM.webp</spriteM>
+		<spriteF>..\media\sprites\gustF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\gustArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Haetae</dragonName>
+        <eggDescription>This Egg emanates a mysterious energy.</eggDescription>
+        <location>	Crystal Mine</location>
+		<eggSprite>..\media\sprites\haetaeEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\haetaeM.webp</spriteM>
+		<spriteF>..\media\sprites\haetaeF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\haetaeArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Chungmu Haetae</dragonName>
+        <eggDescription>This Egg is righteous.</eggDescription>
+        <location>Breeding (Brave Haetae x Brave Blade)</location>
+		<eggSprite>..\media\sprites\haetaeChungmuEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\haetaeChungmuM.webp</spriteM>
+		<spriteF>..\media\sprites\haetaeChungmuF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\haetaeChungmuArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Hallow</dragonName>
+        <eggDescription>This Egg is surrounded by ethereal spirits.</eggDescription>
+        <location>Altar of Darkness</location>
+		<eggSprite>..\media\sprites\hallowEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\hallowM.webp</spriteM>
+		<spriteF>..\media\sprites\hallowF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\hallowArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Haze</dragonName>
+        <eggDescription>This Egg is foggy.</eggDescription>
+        <location>Help Request (Wind Temple), 3 Smoke Shells</location>
+		<eggSprite>..\media\sprites\hazeEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\hazeM.webp</spriteM>
+		<spriteF>..\media\sprites\hazeF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\hazeArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Hedgebat</dragonName>
+        <eggDescription>This Egg never puts its guard down.</eggDescription>
+        <location>Thorn Tree Forest</location>
+		<eggSprite>..\media\sprites\hedgebatEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\hedgebatM.webp</spriteM>
+		<spriteF>..\media\sprites\hedgebatF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\hedgebatArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Hell Dragon</dragonName>
+        <eggDescription>Don't stare at this Egg for too long.</eggDescription>
+        <location>Mountain of Fire</location>
+		<eggSprite>..\media\sprites\hellEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\hellM.webp</spriteM>
+		<spriteF>..\media\sprites\hellF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\hellArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Henes</dragonName>
+        <eggDescription>This Egg is wearing a mask.</eggDescription>
+        <location>Forest of Hope, Wrecked Ship, Mountain of Fire, Wind Temple, Sky Temple, Rainbow Garden</location>
+		<eggSprite>..\media\sprites\henesEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\henesM.webp</spriteM>
+		<spriteF>..\media\sprites\henesF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\henesArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Hercules Dragon</dragonName>
+        <eggDescription>This egg is surrounded by sturdy horns.</eggDescription>
+        <location>Thorn Tree Forest</location>
+		<eggSprite>..\media\sprites\herculesEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\herculesM.webp</spriteM>
+		<spriteF>..\media\sprites\herculesF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\herculesArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Hourglass Dragon</dragonName>
+        <eggDescription>This Egg measures time.</eggDescription>
+        <location>Breeding (Clockwork x Sand)</location>
+		<eggSprite>..\media\sprites\hourglassEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\hourglassM.webp</spriteM>
+		<spriteF>..\media\sprites\hourglassF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\hourglassArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Hurricane Dragon</dragonName>
+        <eggDescription>This Egg has wings of the wind.</eggDescription>
+        <location>Wind Temple</location>
+		<eggSprite>..\media\sprites\hurricaneEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\hurricaneM.webp</spriteM>
+		<spriteF>..\media\sprites\hurricaneF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\hurricaneArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Hydragon</dragonName>
+        <eggDescription>This Egg is wrapped with three outer shells.</eggDescription>
+        <location>Breeding (Hell x Fearful/Lunatic)</location>
+		<eggSprite>..\media\sprites\hydraEgg.webp</eggSprite>
+        <spriteM></spriteM>
+		<spriteF></spriteF>
+		<spriteN>..\media\sprites\hydraN.webp</spriteN>
+        <artwork>..\media\artwork\hydraArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Hyeonmu</dragonName>
+        <eggDescription>This Egg contains yin-yang energy.</eggDescription>
+        <location>Rainbow Garden</location>
+		<eggSprite>..\media\sprites\hyeonmuEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\hyeonmuM.webp</spriteM>
+		<spriteF>..\media\sprites\hyeonmuF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\hyeonmuArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Ignis</dragonName>
+        <eggDescription>This Egg has sharp fins.</eggDescription>
+        <location>Mountain of Fire, Sky Temple</location>
+		<eggSprite>..\media\sprites\ignisEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\ignisM.webp</spriteM>
+		<spriteF>..\media\sprites\ignisF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\ignisArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Ilios</dragonName>
+        <eggDescription>This Egg is burning hot.</eggDescription>
+        <location>Sky Temple</location>
+		<eggSprite>..\media\sprites\iliosEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\iliosM.webp</spriteM>
+		<spriteF>..\media\sprites\iliosF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\iliosArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Insect Dragon</dragonName>
+        <eggDescription>This Egg is surrounded with bees.</eggDescription>
+        <location>Forest of Hope</location>
+		<eggSprite>..\media\sprites\insectEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\insectM.webp</spriteM>
+		<spriteF>..\media\sprites\insectF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\insectArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Insect Queen</dragonName>
+        <eggDescription>Bees buzz near this Egg.</eggDescription>
+        <location>Forest of Hope</location>
+		<eggSprite>..\media\sprites\insectQueenEgg.webp</eggSprite>
+        <spriteM></spriteM>
+		<spriteF>..\media\sprites\insectQueenF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\insectQueenArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Iron Dragon</dragonName>
+        <eggDescription>Something black is sticking out from this red Egg.</eggDescription>
+        <location>Mountain of Fire</location>
+		<eggSprite>..\media\sprites\ironEgg.webp</eggSprite>
+        <spriteM></spriteM>
+		<spriteF></spriteF>
+		<spriteN>..\media\sprites\ironN.webp</spriteN>
+        <artwork>..\media\artwork\ironArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Jima</dragonName>
+        <eggDescription>This Egg has transparent fins underneath it.</eggDescription>
+        <location>Crystal Mine</location>
+		<eggSprite>..\media\sprites\jimaEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\jimaM.webp</spriteM>
+		<spriteF>..\media\sprites\jimaF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\jimaArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Jimon</dragonName>
+        <eggDescription>This Egg can find its owner.</eggDescription>
+        <location>Breeding (Egg x Any)</location>
+		<eggSprite>..\media\sprites\jimonEgg.webp</eggSprite>
+        <spriteM></spriteM>
+		<spriteF></spriteF>
+		<spriteN>..\media\sprites\jimonN.webp</spriteN>
+        <artwork>..\media\artwork\jimonArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Kangkang</dragonName>
+        <eggDescription>This Egg is wearing a mask that looks like a lion.</eggDescription>
+        <location>Event (Moonlight Affairs)</location>
+		<eggSprite>..\media\sprites\kangEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\kangM.webp</spriteM>
+		<spriteF>..\media\sprites\kangF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\kangArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Karura</dragonName>
+        <eggDescription>This Egg awaits the strong one.</eggDescription>
+        <location>Wrecked Ship</location>
+		<eggSprite>..\media\sprites\karuraEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\karuraM.webp</spriteM>
+		<spriteF>..\media\sprites\karuraF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\karuraArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Khan</dragonName>
+        <eggDescription>This Egg has three blue horns.</eggDescription>
+        <location>Sky Temple</location>
+		<eggSprite>..\media\sprites\khanEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\khanM.webp</spriteM>
+		<spriteF>..\media\sprites\khanF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\khanArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Khan Marino</dragonName>
+        <eggDescription>The dragon inside this egg has a pink glow.</eggDescription>
+        <location>Breeding (Khan x Marino)</location>
+		<eggSprite>..\media\sprites\khanMarinoEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\khanMarinoM.webp</spriteM>
+		<spriteF>..\media\sprites\khanMarinoF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\khanMarinoArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Knight Dragon</dragonName>
+        <eggDescription>This Egg is wearing a shining helmet.</eggDescription>
+        <location>Sky Temple</location>
+		<eggSprite>..\media\sprites\knightEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\knightM.webp</spriteM>
+		<spriteF>..\media\sprites\knightF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\knightArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Kuzmara</dragonName>
+        <eggDescription>This egg has yellow horns</eggDescription>
+        <location>Help Request (Mountain of Fire), 3 Warrior's Swords</location>
+		<eggSprite>..\media\sprites\kuzmaraEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\kuzmaraM.webp</spriteM>
+		<spriteF>..\media\sprites\kuzmaraF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\kuzmaraArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>La Lux</dragonName>
+        <eggDescription>This egg has a sun shaped ornament.</eggDescription>
+        <location>Sky Temple</location>
+		<eggSprite>..\media\sprites\laluxEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\laluxM.webp</spriteM>
+		<spriteF>..\media\sprites\laluxF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\laluxArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Lady Dragon - Pink</dragonName>
+        <eggDescription>This Egg is bright pink.</eggDescription>
+        <location>Party Dragon Ability</location>
+		<eggSprite>..\media\sprites\ladyEgg.webp</eggSprite>
+        <spriteM></spriteM>
+		<spriteF>..\media\sprites\ladyF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\ladyArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Lady Dragon - Yellow</dragonName>
+        <eggDescription>This Egg is bright pink.</eggDescription>
+        <location>Lady Dragon Ability</location>
+		<eggSprite>..\media\sprites\ladyEgg.webp</eggSprite>
+        <spriteM></spriteM>
+		<spriteF>..\media\sprites\ladyF2.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\ladyArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Lady Dragon - Blue</dragonName>
+        <eggDescription>This Egg is bright pink.</eggDescription>
+        <location>Lady Dragon Ability</location>
+		<eggSprite>..\media\sprites\ladyEgg.webp</eggSprite>
+        <spriteM></spriteM>
+		<spriteF>..\media\sprites\ladyF3.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\ladyArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Lakion</dragonName>
+        <eggDescription>This egg is wearing a hoodie.	</eggDescription>
+        <location>Wanderer</location>
+		<eggSprite>..\media\sprites\lakionEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\lakionM.webp</spriteM>
+		<spriteF>..\media\sprites\lakionF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\lakionArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Lambgon</dragonName>
+        <eggDescription>This Egg is covered in soft fur.</eggDescription>
+        <location>Thorn Tree Forest</location>
+		<eggSprite>..\media\sprites\lambgonEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\lambgonM.webp</spriteM>
+		<spriteF>..\media\sprites\lambgonF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\lambgonArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Lava Dragon</dragonName>
+        <eggDescription>This Egg's eggshell has solidified lava on it.</eggDescription>
+        <location>Mountain of Fire</location>
+		<eggSprite>..\media\sprites\lavaEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\lavaM.webp</spriteM>
+		<spriteF>..\media\sprites\lavaF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\lavaArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Labasalt</dragonName>
+        <eggDescription>This Egg's eggshell is covered with basalt.</eggDescription>
+        <location>Breeding (Lava x Any Water)</location>
+		<eggSprite>..\media\sprites\labasaltEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\labasaltM.webp</spriteM>
+		<spriteF>..\media\sprites\labasaltF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\lavaArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Leaf Dragon</dragonName>
+        <eggDescription>Leaves are growing on this Egg.</eggDescription>
+        <location>Help Request (Forest of Hope), 3 World Tree Leaves</location>
+		<eggSprite>..\media\sprites\leafEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\leafM.webp</spriteM>
+		<spriteF>..\media\sprites\leafF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\leafArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Leglien</dragonName>
+        <eggDescription>This Egg spreads poisonous gas.	</eggDescription>
+        <location>Breeding (Alien x Any non-Alien)</location>
+		<eggSprite>..\media\sprites\leglienEgg.webp</eggSprite>
+        <spriteM></spriteM>
+		<spriteF></spriteF>
+		<spriteN>..\media\sprites\leglienN.webp</spriteN>
+        <artwork>..\media\artwork\alienArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Leo Vector</dragonName>
+        <eggDescription>This Egg is being charged.</eggDescription>
+        <location>Wanderer (October 2023)</location>
+		<eggSprite>..\media\sprites\leoVectorEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\leoVectorM.webp</spriteM>
+		<spriteF>..\media\sprites\leoVectorF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\leoVectorArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Leopard Dragon - Default</dragonName>
+        <eggDescription>This Egg is found in rock cracks.</eggDescription>
+        <location>Wrecked Ship</location>
+		<eggSprite>..\media\sprites\leopardEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\leopardM.webp</spriteM>
+		<spriteF>..\media\sprites\leopardF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\leopardArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Leopard Dragon - Enigma</dragonName>
+        <eggDescription>desc</eggDescription>
+        <location>loc</location>
+		<eggSprite>..\media\sprites\leopardEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\leopardEnigmaM.webp</spriteM>
+		<spriteF>..\media\sprites\leopardEnigmaF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\leopardArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Leopard Dragon - Galaxy</dragonName>
+        <eggDescription>desc</eggDescription>
+        <location>loc</location>
+		<eggSprite>..\media\sprites\leopardEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\leopardGalaxyM.webp</spriteM>
+		<spriteF>..\media\sprites\leopardGalaxyF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\leopardArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Leopard Dragon - Black Night</dragonName>
+        <eggDescription>desc</eggDescription>
+        <location>loc</location>
+		<eggSprite>..\media\sprites\leopardEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\leopardBlackM.webp</spriteM>
+		<spriteF>..\media\sprites\leopardBlackF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\leopardArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Libera</dragonName>
+        <eggDescription>This Egg gives off an aura of nightmares.</eggDescription>
+        <location>Wind Temple</location>
+		<eggSprite>..\media\sprites\liberaEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\liberaM.webp</spriteM>
+		<spriteF>..\media\sprites\liberaF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\liberaArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Liberte</dragonName>
+        <eggDescription>This Egg is holding a letter.</eggDescription>
+        <location>Forest of Hope, Wrecked Ship, Mountain of Fire, Wind Temple, Sky Temple, Rainbow Garden</location>
+		<eggSprite>..\media\sprites\liberteEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\liberteM.webp</spriteM>
+		<spriteF>..\media\sprites\liberteF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\liberteArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Lichmond</dragonName>
+        <eggDescription>This Egg exudes strong dark magic.</eggDescription>
+        <location>Tomb of Ancient Dragons</location>
+		<eggSprite>..\media\sprites\lichEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\lichM.webp</spriteM>
+		<spriteF>..\media\sprites\lichF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\lichArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Lightning Dragon</dragonName>
+        <eggDescription>The pattern on this Egg resembles lightning.</eggDescription>
+        <location>	Mountain of Fire</location>
+		<eggSprite>..\media\sprites\lightningEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\lightningM.webp</spriteM>
+		<spriteF>..\media\sprites\lightningF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\lightningArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Dark Lightning</dragonName>
+        <eggDescription>The Lightning shape of this egg is imbued with the power of Dark.</eggDescription>
+        <location>Evria</location>
+		<eggSprite>..\media\sprites\lightningDarkEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\lightningDarkM.webp</spriteM>
+		<spriteF>..\media\sprites\lightningDarkF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\lightningDarkArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Lololli</dragonName>
+        <eggDescription>This egg smells sweet.</eggDescription>
+        <location>Help Request (Rainbow Garden), 3 Lollipops</location>
+		<eggSprite>..\media\sprites\lololliEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\lololliM.webp</spriteM>
+		<spriteF>..\media\sprites\lololliF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\lololliArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Lucio</dragonName>
+        <eggDescription>This Egg induces hallucinations.</eggDescription>
+        <location>Altar of Darkness</location>
+		<eggSprite>..\media\sprites\lucioEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\lucioM.webp</spriteM>
+		<spriteF>..\media\sprites\lucioF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\lucioArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Lumindis - Gen2</dragonName>
+        <eggDescription>This Egg radiates noble loyalty.</eggDescription>
+        <location>Breeding (Lumindis x Any)</location>
+		<eggSprite>..\media\sprites\lumindisEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\lumindis2M.webp</spriteM>
+		<spriteF>..\media\sprites\lumindis2F.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\lumindisArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Lumindis - Gen1 Knight of Nobilis</dragonName>
+        <eggDescription>This Egg radiates noble loyalty.</eggDescription>
+        <location>Monthly Egg (October)</location>
+		<eggSprite>..\media\sprites\lumindisEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\lumindisNobilisM.webp</spriteM>
+		<spriteF>..\media\sprites\lumindisNobilisF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\lumindisArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Lumindis - Gen1 Moon Knight</dragonName>
+        <eggDescription>This Egg radiates noble loyalty.</eggDescription>
+        <location>Monthly Egg (October)</location>
+		<eggSprite>..\media\sprites\lumindisEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\lumindisMoonM.webp</spriteM>
+		<spriteF>..\media\sprites\lumindisMoonF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\lumindisArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Lumindis - Gen1 Star Knight</dragonName>
+        <eggDescription>This Egg radiates noble loyalty.</eggDescription>
+        <location>Monthly Egg (October)</location>
+		<eggSprite>..\media\sprites\lumindisEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\lumindisStarM.webp</spriteM>
+		<spriteF>..\media\sprites\lumindisStarF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\lumindisArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Lumindis - Gen1 Warrior</dragonName>
+        <eggDescription>This Egg radiates noble loyalty.</eggDescription>
+        <location>Monthly Egg (October)</location>
+		<eggSprite>..\media\sprites\lumindisEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\lumindisWarriorM.webp</spriteM>
+		<spriteF>..\media\sprites\lumindisWarriorF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\lumindisArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Lunera</dragonName>
+        <eggDescription>The dragon inside this egg has a moon-shaped gemstone.</eggDescription>
+        <location>Rainbow Garden</location>
+		<eggSprite>..\media\sprites\luneraEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\luneraM.webp</spriteM>
+		<spriteF>..\media\sprites\luneraF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\luneraArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Lunera - Lunar Eclipse</dragonName>
+        <eggDescription>desc</eggDescription>
+        <location>loc</location>
+		<eggSprite>..\media\sprites\luneraEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\luneraEclipseM.webp</spriteM>
+		<spriteF>..\media\sprites\luneraEclipseF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\luneraArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Maga</dragonName>
+        <eggDescription>This Egg loves gusts of wind.	</eggDescription>
+        <location>Wanderer (July 2023)</location>
+		<eggSprite>..\media\sprites\magaEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\magaM.webp</spriteM>
+		<spriteF>..\media\sprites\magaF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\magaArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Maldek</dragonName>
+        <eggDescription>This Egg wishes to absorb life from a living being.</eggDescription>
+        <location>Wanderer (September 2023)</location>
+		<eggSprite>..\media\sprites\maldekEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\maldekM.webp</spriteM>
+		<spriteF></spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\maldekArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Maloden</dragonName>
+        <eggDescription>Enormous in size, this Egg has horns.</eggDescription>
+        <location>Quest</location>
+		<eggSprite>..\media\sprites\malodenEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\malodenM.webp</spriteM>
+		<spriteF>..\media\sprites\malodenF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\malodenArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Marbas</dragonName>
+        <eggDescription>This Egg's black fur is exceptionally soft.</eggDescription>
+        <location>Altar of Darkness</location>
+		<eggSprite>..\media\sprites\marbasEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\marbasM.webp</spriteM>
+		<spriteF>..\media\sprites\marbasF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\marbasArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Marino</dragonName>
+        <eggDescription>The dragon inside this egg feels moist.</eggDescription>
+        <location>Wrecked Ship</location>
+		<eggSprite>..\media\sprites\marinoEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\marinoM.webp</spriteM>
+		<spriteF>..\media\sprites\marinoF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\marinoArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Mellow</dragonName>
+        <eggDescription>This Egg longs to soar through the skies.</eggDescription>
+        <location>Wanderer (August 2023)</location>
+		<eggSprite>..\media\sprites\mellowEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\mellowM.webp</spriteM>
+		<spriteF>..\media\sprites\mellowF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\mellowArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Metal Dragon</dragonName>
+        <eggDescription>This Egg is sturdy enough to withstand physical shock.</eggDescription>
+        <location>Mountain of Fire</location>
+		<eggSprite>..\media\sprites\metalEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\metalM.webp</spriteM>
+		<spriteF>..\media\sprites\metalF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\metalArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Gold Metal Dragon</dragonName>
+        <eggDescription>This Egg is shines golden bright.</eggDescription>
+        <location>Breeding (Goldie x Metal)</location>
+		<eggSprite>..\media\sprites\metalGoldEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\metalGoldM.webp</spriteM>
+		<spriteF>..\media\sprites\metalGoldF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\metalArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Minas</dragonName>
+        <eggDescription>This Egg is wearing fancy armor.</eggDescription>
+        <location>Altar of Darkness</location>
+		<eggSprite>..\media\sprites\minasEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\minasM.webp</spriteM>
+		<spriteF>..\media\sprites\minasF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\minasArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Mist Dragon</dragonName>
+        <eggDescription>This Egg give off eerie vibes.</eggDescription>
+        <location>Crystal Mine</location>
+		<eggSprite>..\media\sprites\mistEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\mistM.webp</spriteM>
+		<spriteF>..\media\sprites\mistF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\mistArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Mithra</dragonName>
+        <eggDescription>This Egg has a lofty mission.</eggDescription>
+        <location>Rainbow Garden</location>
+		<eggSprite>..\media\sprites\mithraEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\mithraM.webp</spriteM>
+		<spriteF>..\media\sprites\mithraF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\mithraArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Mud Dragon</dragonName>
+        <eggDescription>This Egg drips mud.</eggDescription>
+        <location>Breeding (Sand x Any Water)</location>
+		<eggSprite>..\media\sprites\mudEgg.webp</eggSprite>
+        <spriteM></spriteM>
+		<spriteF></spriteF>
+		<spriteN>..\media\sprites\mudN.webp</spriteN>
+        <artwork>..\media\artwork\mudArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Mushroom Dragon</dragonName>
+        <eggDescription>This Egg is moist and bouncy.</eggDescription>
+        <location>Forest of Hope</location>
+		<eggSprite>..\media\sprites\mushroomEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\mushroomM.webp</spriteM>
+		<spriteF>..\media\sprites\mushroomF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\mushroomArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Enoki Mushroom Dragon</dragonName>
+        <eggDescription>The dragon inside this egg grows enoki mushrooms.</eggDescription>
+        <location>Quest</location>
+		<eggSprite>..\media\sprites\enokiEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\enokiM.webp</spriteM>
+		<spriteF>..\media\sprites\enokiF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\enokiArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Mushroom Knight</dragonName>
+        <eggDescription>This egg resembles a hard mushroom.</eggDescription>
+        <location>Breeding (Mushroom x Knight)</location>
+		<eggSprite>..\media\sprites\mushroomKnightEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\mushroomKnightM.webp</spriteM>
+		<spriteF>..\media\sprites\mushroomKnightF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\mushroomKnightArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Mustard Hammer</dragonName>
+        <eggDescription>This Egg holds tremendous power.</eggDescription>
+        <location>Mountain of Fire</location>
+		<eggSprite>..\media\sprites\mustardEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\mustardM.webp</spriteM>
+		<spriteF>..\media\sprites\mustardF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\mustardArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Nebula</dragonName>
+        <eggDescription>This egg holds the energy of the stars.</eggDescription>
+        <location>Rainbow Garden</location>
+		<eggSprite>..\media\sprites\nebulaEgg.webp</eggSprite>
+        <spriteM></spriteM>
+		<spriteF></spriteF>
+		<spriteN>..\media\sprites\nebulaN.webp</spriteN>
+        <artwork>..\media\artwork\nebulaArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Nello</dragonName>
+        <eggDescription>This egg's horns continue to grow.	</eggDescription>
+        <location>Wrecked Ship</location>
+		<eggSprite>..\media\sprites\nelloEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\nelloM.webp</spriteM>
+		<spriteF>..\media\sprites\nelloF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\nelloArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Magnello</dragonName>
+        <eggDescription>Corals from these Egg grow.</eggDescription>
+        <location>Breeding (Nello x Mountain of Fire)</location>
+		<eggSprite>..\media\sprites\magnelloEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\magnelloM.webp</spriteM>
+		<spriteF>..\media\sprites\magnelloF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\magnelloArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Neon Dragon</dragonName>
+        <eggDescription>This Egg emits a spectrum of colors.</eggDescription>
+        <location>Crystal Mine</location>
+		<eggSprite>..\media\sprites\neonEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\neonM.webp</spriteM>
+		<spriteF>..\media\sprites\neonF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\neonArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Nessie</dragonName>
+        <eggDescription>This Egg looks like a fish.</eggDescription>
+        <location>Wrecked Ship</location>
+		<eggSprite>..\media\sprites\nessieEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\nessieM.webp</spriteM>
+		<spriteF>..\media\sprites\nessieF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\nessieArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Nessiebig</dragonName>
+        <eggDescription>This egg gets bigger and bigger.</eggDescription>
+        <location>Quest</location>
+		<eggSprite>..\media\sprites\nessieBigEgg.webp</eggSprite>
+        <spriteM></spriteM>
+		<spriteF></spriteF>
+		<spriteN>..\media\sprites\nessieBigN.webp</spriteN>
+        <artwork>..\media\artwork\nessieArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Ninja Dragon</dragonName>
+        <eggDescription>This egg tries to hide its appearance.</eggDescription>
+        <location>Wanderer (June 2023)</location>
+		<eggSprite>..\media\sprites\ninjaEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\ninjaM.webp</spriteM>
+		<spriteF>..\media\sprites\ninjaF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\ninjaArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Ninmunia</dragonName>
+        <eggDescription>This Egg harbors the will of a ninja.</eggDescription>
+        <location>Crystal Mine</location>
+		<eggSprite>..\media\sprites\ninEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\ninM.webp</spriteM>
+		<spriteF>..\media\sprites\ninF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\ninArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Nox</dragonName>
+        <eggDescription>The thorns on this Egg continue to grow.</eggDescription>
+        <location>Sky Temple</location>
+		<eggSprite>..\media\sprites\noxEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\noxM.webp</spriteM>
+		<spriteF>..\media\sprites\noxF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\noxArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Obex</dragonName>
+        <eggDescription>This Egg tries to create space.</eggDescription>
+        <location>Crystal Mine</location>
+		<eggSprite>..\media\sprites\obexEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\obexM.webp</spriteM>
+		<spriteF>..\media\sprites\obexF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\obexArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Oculus</dragonName>
+        <eggDescription>This Egg instinctively hovers around souls.</eggDescription>
+        <location>Wanderer (August 2023)</location>
+		<eggSprite>..\media\sprites\oculusEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\oculusM.webp</spriteM>
+		<spriteF>..\media\sprites\oculusF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\oculusArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Pangpang</dragonName>
+        <eggDescription>This egg is a balloon	Gender male</eggDescription>
+        <location>Event (???)</location>
+		<eggSprite>..\media\sprites\pangEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\pangM.webp</spriteM>
+		<spriteF></spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\pangArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Party Dragon</dragonName>
+        <eggDescription>This Egg is wrapped with a giant ribbon.</eggDescription>
+        <location>Rainbow Garden</location>
+		<eggSprite>..\media\sprites\partyEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\partyM.webp</spriteM>
+		<spriteF>..\media\sprites\partyF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\partyArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Petra</dragonName>
+        <eggDescription>This Egg contains the flames of karma.</eggDescription>
+        <location>Mountain of Fire</location>
+		<eggSprite>..\media\sprites\petraEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\petraM.webp</spriteM>
+		<spriteF>..\media\sprites\petraF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\petraArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Patroa</dragonName>
+        <eggDescription>This egg is wrapped around an emerald snake.</eggDescription>
+        <location>Main Quest</location>
+		<eggSprite>..\media\sprites\patroaEgg.webp</eggSprite>
+        <spriteM></spriteM>
+		<spriteF></spriteF>
+		<spriteN>..\media\sprites\patroaN.webp</spriteN>
+        <artwork>..\media\artwork\patroaArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Phoenix Dragon - Red</dragonName>
+        <eggDescription>This Egg is burning in flames.</eggDescription>
+        <location>Mountain of Fire</location>
+		<eggSprite>..\media\sprites\phoenixEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\phoenixM.webp</spriteM>
+		<spriteF>..\media\sprites\phoenixF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\phoenixArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Phoenix Dragon - Blue</dragonName>
+        <eggDescription>This Egg is burning in flames.</eggDescription>
+        <location>Phoenix Ability</location>
+		<eggSprite>..\media\sprites\phoenixEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\phoenixBlueM.webp</spriteM>
+		<spriteF>..\media\sprites\phoenixBlueF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\phoenixBlueArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Phoenix Dragon - Ash</dragonName>
+        <eggDescription>This Egg is burning in flames.</eggDescription>
+        <location>Pheonix Ability</location>
+		<eggSprite>..\media\sprites\phoenixEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\phoenixAshM.webp</spriteM>
+		<spriteF>..\media\sprites\phoenixAshF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\phoenixAshArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Pierrot Dragon - Pink and Blue</dragonName>
+        <eggDescription>Laughter is heard near this Egg.</eggDescription>
+        <location>Rainbow Garden</location>
+		<eggSprite>..\media\sprites\pierrotEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\pierrotM.webp</spriteM>
+		<spriteF>..\media\sprites\pierrotF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\pierrotArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Pierrot Dragon - Red and Black</dragonName>
+        <eggDescription>Laughter is heard near this Egg.</eggDescription>
+        <location>Treasure Chest</location>
+		<eggSprite>..\media\sprites\pierrotEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\pierrotChestM.webp</spriteM>
+		<spriteF>..\media\sprites\pierrotChestF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\pierrotArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Pink Bell - Pink Butterfly</dragonName>
+        <eggDescription>This Egg is beautiful and adorable.</eggDescription>
+        <location>Thorn Tree Forest</location>
+		<eggSprite>..\media\sprites\pinkBellEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\pinkBellM.webp</spriteM>
+		<spriteF>..\media\sprites\pinkBellF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\pinkBellArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Pink Bell - Monarch Butterfly</dragonName>
+        <eggDescription>This Egg is beautiful and adorable.</eggDescription>
+        <location>Thorn Tree Forest</location>
+		<eggSprite>..\media\sprites\pinkBellEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\pinkBellMonarchM.webp</spriteM>
+		<spriteF>..\media\sprites\pinkBellMonarchF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\pinkBellArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Pink Bell - Morpho Butterfly</dragonName>
+        <eggDescription>This Egg is beautiful and adorable.</eggDescription>
+        <location>Thorn Tree Forest</location>
+		<eggSprite>..\media\sprites\pinkBellEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\pinkBellMorphoM.webp</spriteM>
+		<spriteF>..\media\sprites\pinkBellMorphoF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\pinkBellArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Plumos - Gen2</dragonName>
+        <eggDescription>This Egg's apricot blossoms are blooming.</eggDescription>
+        <location>Breeding (Plumos x Any)</location>
+		<eggSprite>..\media\sprites\plumosEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\plumos2M.webp</spriteM>
+		<spriteF>..\media\sprites\plumos2F.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\plumosArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Plumos - Gen1 Apricot Blossom</dragonName>
+        <eggDescription>This Egg's apricot blossoms are blooming.</eggDescription>
+        <location>Monthly Egg (September)</location>
+		<eggSprite>..\media\sprites\plumosEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\plumosBlossomM.webp</spriteM>
+		<spriteF>..\media\sprites\plumosBlossomF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\plumosArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Plumos - Gen1 Snow Apricot Blossom</dragonName>
+        <eggDescription>This Egg's apricot blossoms are blooming.</eggDescription>
+        <location>Monthly Egg (September)</location>
+		<eggSprite>..\media\sprites\plumosEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\plumosSnowM.webp</spriteM>
+		<spriteF>..\media\sprites\plumosSnowF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\plumosArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Plumos - Gen 1 Apricot</dragonName>
+        <eggDescription>This Egg's apricot blossoms are blooming.</eggDescription>
+        <location>Monthly Egg (September)</location>
+		<eggSprite>..\media\sprites\plumosEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\plumosApricotM.webp</spriteM>
+		<spriteF>..\media\sprites\plumosApricotF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\plumosArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Plumos - Gen 1 Plantain Fan</dragonName>
+        <eggDescription>This Egg's apricot blossoms are blooming.</eggDescription>
+        <location>Monthly Egg (September)</location>
+		<eggSprite>..\media\sprites\plumosEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\plumosFanM.webp</spriteM>
+		<spriteF>..\media\sprites\plumosFanF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\plumosArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Poison River</dragonName>
+        <eggDescription>This Egg has tentacles attached.</eggDescription>
+        <location>Thorn Tree Forest</location>
+		<eggSprite>..\media\sprites\poisonRiverEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\poisonRiverM.webp</spriteM>
+		<spriteF>..\media\sprites\poisonRiverF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\poisonRiverArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Popomo</dragonName>
+        <eggDescription>This Egg is found around cherry trees.</eggDescription>
+        <location>Sky Temple</location>
+		<eggSprite>..\media\sprites\popomoEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\popomoM.webp</spriteM>
+		<spriteF>..\media\sprites\popomoF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\popomoArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Snow Blossom Popomo</dragonName>
+        <eggDescription>This Egg is found near cherry blossom trees on snowy days.</eggDescription>
+        <location>	Thorn Tree Forest</location>
+		<eggSprite>..\media\sprites\popomoSnowEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\popomoSnowM.webp</spriteM>
+		<spriteF>..\media\sprites\popomoSnowF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\popomoSnowArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Popon</dragonName>
+        <eggDescription>This egg looks like a glove.</eggDescription>
+        <location>Sky Temple</location>
+		<eggSprite>..\media\sprites\poponEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\poponM.webp</spriteM>
+		<spriteF>..\media\sprites\poponF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\poponArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Porta - Gen2</dragonName>
+        <eggDescription>This eggs feels dimensions.</eggDescription>
+        <location>Breeding (Porta x Any)</location>
+		<eggSprite>..\media\sprites\portaEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\porta2M.webp</spriteM>
+		<spriteF>..\media\sprites\porta2F.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\portaArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Porta - Gen1</dragonName>
+        <eggDescription>This eggs feels dimensions.</eggDescription>
+        <location>Card Code</location>
+		<eggSprite>..\media\sprites\portaEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\portaM.webp</spriteM>
+		<spriteF>..\media\sprites\portaF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\portaArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Porta - Gen1 Warden</dragonName>
+        <eggDescription>This eggs feels dimensions.</eggDescription>
+        <location>Card Code</location>
+		<eggSprite>..\media\sprites\portaEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\portaWardenM.webp</spriteM>
+		<spriteF>..\media\sprites\portaWardenF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\portaWardenArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Power Dragon</dragonName>
+        <eggDescription>This egg is very rough and heavy.</eggDescription>
+        <location>Forest of Hope</location>
+		<eggSprite>..\media\sprites\powerEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\powerM.webp</spriteM>
+		<spriteF>..\media\sprites\powerF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\powerArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Maniacal Power Dragon</dragonName>
+        <eggDescription>This Egg is imbued with very wild power.</eggDescription>
+        <location>Evria</location>
+		<eggSprite>..\media\sprites\powerManicEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\powerManicM.webp</spriteM>
+		<spriteF>..\media\sprites\powerManicF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\powerManicArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Purple Lips</dragonName>
+        <eggDescription>This Egg holds a beautiful jewel.</eggDescription>
+        <location>Sky Temple</location>
+		<eggSprite>..\media\sprites\purpleLipsEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\purpleLipsM.webp</spriteM>
+		<spriteF>..\media\sprites\purpleLipsF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\purpleLipsArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Python</dragonName>
+        <eggDescription>This Egg absorbs the essence of the earth.</eggDescription>
+        <location>Tomb of Ancient Dragons</location>
+		<eggSprite>..\media\sprites\pythonEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\pythonM.webp</spriteM>
+		<spriteF>..\media\sprites\pythonF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\pythonArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Rafael</dragonName>
+        <eggDescription>This Egg shines like a jewel.</eggDescription>
+        <location>Sky Temple</location>
+		<eggSprite>..\media\sprites\rafaelEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\rafaelM.webp</spriteM>
+		<spriteF>..\media\sprites\rafaelF.webp</spriteF>
+		<spriteN>..\media\sprites\rafaelN.webp</spriteN>
+        <artwork>..\media\artwork\rafaelArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Rakshasa - Gen2</dragonName>
+        <eggDescription>This Egg is found around shipwrecks.</eggDescription>
+        <location>Breeding (Rakshasa x Any)</location>
+		<eggSprite>..\media\sprites\rakshasaEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\rakshasa2M.webp</spriteM>
+		<spriteF>..\media\sprites\rakshasa2F.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\rakshasaArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Rakshasa - Gen1 Ocean</dragonName>
+        <eggDescription>This Egg is found around shipwrecks.</eggDescription>
+        <location>Monthly Egg (June)</location>
+		<eggSprite>..\media\sprites\rakshasaEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\rakshasaOceanM.webp</spriteM>
+		<spriteF>..\media\sprites\rakshasaOceanF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\rakshasaArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Rakshasa - Gen1 Deep Sea</dragonName>
+        <eggDescription>This Egg is found around shipwrecks.</eggDescription>
+        <location>Monthly Egg (June)</location>
+		<eggSprite>..\media\sprites\rakshasaEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\rakshasaDeepM.webp</spriteM>
+		<spriteF>..\media\sprites\rakshasaDeepF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\rakshasaArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Rakshasa - Gen1 Ocean Floor</dragonName>
+        <eggDescription>This Egg is found around shipwrecks.</eggDescription>
+        <location>Monthly Egg (June)</location>
+		<eggSprite>..\media\sprites\rakshasaEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\rakshasaFloorM.webp</spriteM>
+		<spriteF>..\media\sprites\rakshasaFloorF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\rakshasaArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Red Wyvern</dragonName>
+        <eggDescription>This Egg likes fire pits.</eggDescription>
+        <location>Mountain of Fire</location>
+		<eggSprite>..\media\sprites\wyvernEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\wyvernM.webp</spriteM>
+		<spriteF>..\media\sprites\wyvernF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\wyvernArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Redbull Dragon</dragonName>
+        <eggDescription>This Egg exudes strong energy.</eggDescription>
+        <location>Mountain of Fire</location>
+		<eggSprite>..\media\sprites\redbullEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\redbullM.webp</spriteM>
+		<spriteF>..\media\sprites\redbullF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\redbullArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Rekmall</dragonName>
+        <eggDescription>This Egg hold mysterious power.	</eggDescription>
+        <location>Forest of Hope</location>
+		<eggSprite>..\media\sprites\rekmallEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\rekmallM.webp</spriteM>
+		<spriteF>..\media\sprites\rekmallF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\rekmallArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Rock Dragon</dragonName>
+        <eggDescription>A pickax is needed to collect this Egg.</eggDescription>
+        <location>Forest of Hope, Wrecked Ship, Mountain of Fire, Wind Temple, Sky Temple, Rainbow Garden</location>
+		<eggSprite>..\media\sprites\rockEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\rockM.webp</spriteM>
+		<spriteF>..\media\sprites\rockF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\rockArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Rock Dragon - Ore-Carrying</dragonName>
+        <eggDescription>A pickax is needed to collect this Egg.</eggDescription>
+        <location>Breed Rock after Ability Use</location>
+		<eggSprite>..\media\sprites\rockEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\rockOreM.webp</spriteM>
+		<spriteF>..\media\sprites\rockOreF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\rockArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Rude Ore - Gen1</dragonName>
+        <eggDescription>This Egg has shiny shards on its eggshell.</eggDescription>
+        <location>Code Dragon (DVC Book)</location>
+		<eggSprite>..\media\sprites\rudeOreEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\rudeOreM.webp</spriteM>
+		<spriteF>..\media\sprites\rudeOreF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\rudeOreArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Rude Ore - Gen2</dragonName>
+        <eggDescription>This Egg has shiny shards on its eggshell.</eggDescription>
+        <location>Breeding (Rude Ore x Any)</location>
+		<eggSprite>..\media\sprites\rudeOreEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\rudeOre2M.webp</spriteM>
+		<spriteF>..\media\sprites\rudeOre2F.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\rudeOreArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Rupia</dragonName>
+        <eggDescription>This Egg is protected by sea creatures.</eggDescription>
+        <location>Wrecked Ship</location>
+		<eggSprite>..\media\sprites\rupiaEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\rupiaM.webp</spriteM>
+		<spriteF>..\media\sprites\rupiaF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\rupiaArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Rupo</dragonName>
+        <eggDescription>This Egg has steel horns.</eggDescription>
+        <location>Wanderer (June 2023)</location>
+		<eggSprite>..\media\sprites\rupoEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\rupoM.webp</spriteM>
+		<spriteF>..\media\sprites\rupoF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\rupoArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Sand Dragon</dragonName>
+        <eggDescription>This Egg's eggshell has a sand-like texture.</eggDescription>
+        <location>Wrecked Ship</location>
+		<eggSprite>..\media\sprites\sandEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\sandM.webp</spriteM>
+		<spriteF>..\media\sprites\sandF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\sandArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Scarlet</dragonName>
+        <eggDescription>This Egg hides its form.</eggDescription>
+        <location>Thorn Tree Forest</location>
+		<eggSprite>..\media\sprites\scarletEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\scarletM.webp</spriteM>
+		<spriteF>..\media\sprites\scarletF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\scarletArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Scorpion Dragon</dragonName>
+        <eggDescription>This Egg is tingling to the touch.</eggDescription>
+        <location>Tomb of Ancient Dragons</location>
+		<eggSprite>..\media\sprites\scorpionEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\scorpionM.webp</spriteM>
+		<spriteF>..\media\sprites\scorpionF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\scorpionArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Seere</dragonName>
+        <eggDescription>It is best not to remove the hood of this Egg.</eggDescription>
+        <location>Rainbow Garden</location>
+		<eggSprite>..\media\sprites\seereEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\seereM.webp</spriteM>
+		<spriteF>..\media\sprites\seereF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\seereArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Serpent Dragon</dragonName>
+        <eggDescription>This Egg consists of thin scales.</eggDescription>
+        <location>Forest of Hope</location>
+		<eggSprite>..\media\sprites\serpentEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\serpentM.webp</spriteM>
+		<spriteF></spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\serpentArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Serpent Flower</dragonName>
+        <eggDescription>This Egg smells like flowers.</eggDescription>
+        <location>Breeding (Serpent x Flower)</location>
+		<eggSprite>..\media\sprites\serpentFlowerEgg.webp</eggSprite>
+        <spriteM></spriteM>
+		<spriteF>..\media\sprites\serpentFlowerF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\serpentFlowerArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Shadow Dragon</dragonName>
+        <eggDescription>This Egg gives off a dark, shady aura.</eggDescription>
+        <location>Shelter after 30 minutes</location>
+		<eggSprite>..\media\sprites\shadowEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\shadowM.webp</spriteM>
+		<spriteF></spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\shadowArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Shark Dragon</dragonName>
+        <eggDescription>This Egg looks like a shark.</eggDescription>
+        <location>Wrecked Ship</location>
+		<eggSprite>..\media\sprites\sharkEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\sharkM.webp</spriteM>
+		<spriteF>..\media\sprites\sharkF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\sharkArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Sharp Tail</dragonName>
+        <eggDescription>This Egg is fierce.</eggDescription>
+        <location>Thorn Tree Forest</location>
+		<eggSprite>..\media\sprites\sharpTailEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\sharpTailM.webp</spriteM>
+		<spriteF>..\media\sprites\sharpTailF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\sharpTailArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Siamese Dragon</dragonName>
+        <eggDescription>This Egg has clear boundaries.</eggDescription>
+        <location>Sky Temple</location>
+		<eggSprite>..\media\sprites\siameseEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\siameseM.webp</spriteM>
+		<spriteF>..\media\sprites\siameseF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\siameseArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Six-leg Horn - Daytime</dragonName>
+        <eggDescription>This Egg's horn is growing little by little.</eggDescription>
+        <location>Wind Temple, Hatch during Day</location>
+		<eggSprite>..\media\sprites\sixlegEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\sixlegM.webp</spriteM>
+		<spriteF>..\media\sprites\sixlegF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\sixlegArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Six-leg Horn - Night Sky</dragonName>
+        <eggDescription>This Egg's horn is growing little by little.</eggDescription>
+        <location>Wind Temple, Hatch during Night</location>
+		<eggSprite>..\media\sprites\sixlegEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\sixlegNightM.webp</spriteM>
+		<spriteF>..\media\sprites\sixlegNightF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\sixlegArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Six-leg Horn - Sunlight</dragonName>
+        <eggDescription>This Egg's horn is growing little by little.</eggDescription>
+        <location>Wind Temple, Hatch during ???</location>
+		<eggSprite>..\media\sprites\sixlegEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\sixlegSunM.webp</spriteM>
+		<spriteF>..\media\sprites\sixlegSunF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\sixlegArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Skelegon</dragonName>
+        <eggDescription>This Egg has bones sticking out.</eggDescription>
+        <location>Altar of Darkness</location>
+		<eggSprite>..\media\sprites\skeleEgg.webp</eggSprite>
+        <spriteM></spriteM>
+		<spriteF></spriteF>
+		<spriteN>..\media\sprites\skeleN.webp</spriteN>
+        <artwork>..\media\artwork\skeleArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Skink Dragon - Default</dragonName>
+        <eggDescription>This Egg hatches on sand.</eggDescription>
+        <location>Mountain of Fire, Coupon</location>
+		<eggSprite>..\media\sprites\skinkEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\skinkM.webp</spriteM>
+		<spriteF>..\media\sprites\skinkF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\skinkArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Skink Dragon - White</dragonName>
+        <eggDescription>desc</eggDescription>
+        <location>loc</location>
+		<eggSprite>..\media\sprites\skinkEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\skinkWhiteM.webp</spriteM>
+		<spriteF>..\media\sprites\skinkWhiteF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\skinkArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Skink Dragon - Flame</dragonName>
+        <eggDescription>desc</eggDescription>
+        <location>loc</location>
+		<eggSprite>..\media\sprites\skinkEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\skinkFlameM.webp</spriteM>
+		<spriteF>..\media\sprites\skinkFlameF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\skinkArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Skink Dragon - Axanthic</dragonName>
+        <eggDescription>desc</eggDescription>
+        <location>loc</location>
+		<eggSprite>..\media\sprites\skinkEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\skinkGrayM.webp</spriteM>
+		<spriteF>..\media\sprites\skinkGrayF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\skinkArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Skoorum</dragonName>
+        <eggDescription>This Egg accumulates fury of fire.</eggDescription>
+        <location>Wanderer (July 2023)</location>
+		<eggSprite>..\media\sprites\skoorumEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\skoorumM.webp</spriteM>
+		<spriteF>..\media\sprites\skoorumF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\skoorumArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Slime Dragon - Blue</dragonName>
+        <eggDescription>This Egg's texture is like liquid.</eggDescription>
+        <location>Wrecked Ship</location>
+		<eggSprite>..\media\sprites\slimeEgg.webp</eggSprite>
+        <spriteM></spriteM>
+		<spriteF></spriteF>
+		<spriteN>..\media\sprites\slimeBlue.webp</spriteN>
+        <artwork>..\media\artwork\slimeArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Slime Dragon - Pink</dragonName>
+        <eggDescription>This Egg's texture is like liquid.</eggDescription>
+        <location>Wrecked Ship</location>
+		<eggSprite>..\media\sprites\slimeEgg.webp</eggSprite>
+        <spriteM></spriteM>
+		<spriteF></spriteF>
+		<spriteN>..\media\sprites\slimePink.webp</spriteN>
+        <artwork>..\media\artwork\slimeArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Slime Dragon - Orange</dragonName>
+        <eggDescription>This Egg's texture is like liquid.</eggDescription>
+        <location>Wrecked Ship</location>
+		<eggSprite>..\media\sprites\slimeEgg.webp</eggSprite>
+        <spriteM></spriteM>
+		<spriteF></spriteF>
+		<spriteN>..\media\sprites\slimeOrange.webp</spriteN>
+        <artwork>..\media\artwork\slimeArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Slosi</dragonName>
+        <eggDescription>This Egg holds the Key of Stasis.</eggDescription>
+        <location>Wanderer (September 2023)</location>
+		<eggSprite>..\media\sprites\slosiEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\slosiM.webp</spriteM>
+		<spriteF>..\media\sprites\slosiF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\slosiArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Smart Dragon</dragonName>
+        <eggDescription>This Egg is incredibly still.</eggDescription>
+        <location>Wanderer (May 2023)</location>
+		<eggSprite>..\media\sprites\smartEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\smartM.webp</spriteM>
+		<spriteF></spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\smartArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Solar Dragon</dragonName>
+        <eggDescription>This Egg carries light.</eggDescription>
+        <location>Help Request (Sky Temple), 3 Sun Ornaments</location>
+		<eggSprite>..\media\sprites\solarEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\solarM.webp</spriteM>
+		<spriteF>..\media\sprites\solarF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\solarArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Solucanis - Gen2</dragonName>
+        <eggDescription>This Egg is full of greed.</eggDescription>
+        <location>Breeding (Solucanis x Any)</location>
+		<eggSprite>..\media\sprites\solucanisEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\solucanis2M.webp</spriteM>
+		<spriteF>..\media\sprites\solucanis2F.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\solucanisArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Solucanis - Gen1 Bronze</dragonName>
+        <eggDescription>This Egg is full of greed.</eggDescription>
+        <location>Monthly Egg (May)</location>
+		<eggSprite>..\media\sprites\solucanisEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\solucanisBronzeM.webp</spriteM>
+		<spriteF>..\media\sprites\solucanisBronzeF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\solucanisArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Solucanis - Gen1 Moon Bite</dragonName>
+        <eggDescription>This Egg is full of greed.</eggDescription>
+        <location>Monthly Egg (May)</location>
+		<eggSprite>..\media\sprites\solucanisEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\solucanisMoonM.webp</spriteM>
+		<spriteF>..\media\sprites\solucanisMoonF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\solucanisArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Solucanis - Gen1 Sun Bite</dragonName>
+        <eggDescription>This Egg is full of greed.</eggDescription>
+        <location>Monthly Egg (May)</location>
+		<eggSprite>..\media\sprites\solucanisEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\solucanisSunM.webp</spriteM>
+		<spriteF>..\media\sprites\solucanisSunF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\solucanisArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Spicy</dragonName>
+        <eggDescription>This Egg wants to reach the light.</eggDescription>
+        <location>	Rainbow Garden</location>
+		<eggSprite>..\media\sprites\spicyEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\spicyM.webp</spriteM>
+		<spriteF>..\media\sprites\spicyF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\spicyArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Light Spicy</dragonName>
+        <eggDescription>This Egg emits a strange light.</eggDescription>
+        <location>Breeding (Spicy x Docile/Calm/Careful)</location>
+		<eggSprite>..\media\sprites\spicyLightEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\spicyLightM.webp</spriteM>
+		<spriteF>..\media\sprites\spicyLightF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\spicyArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Spike Dragon</dragonName>
+        <eggDescription>This Egg has very sharp thorns.</eggDescription>
+        <location>Wind Temple</location>
+		<eggSprite>..\media\sprites\spikeEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\spikeM.webp</spriteM>
+		<spriteF>..\media\sprites\spikeF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\spikeArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Gold Pike</dragonName>
+        <eggDescription>This Egg has golden thorns.</eggDescription>
+        <location>Breeding (Gold x Spike)</location>
+		<eggSprite>..\media\sprites\goldPikeEgg.webp</eggSprite>
+        <spriteM></spriteM>
+		<spriteF></spriteF>
+		<spriteN>..\media\sprites\goldPikeN.webp</spriteN>
+        <artwork>..\media\artwork\spikeArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Spine Dragon</dragonName>
+        <eggDescription>This Egg is covered with thorns.</eggDescription>
+        <location>Thorn Tree Forest</location>
+		<eggSprite>..\media\sprites\spineEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\spineM.webp</spriteM>
+		<spriteF>..\media\sprites\spineF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\spineArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Splender - Default</dragonName>
+        <eggDescription>This Egg holds colorful light.</eggDescription>
+        <location>Thorn Tree Forest, Breeding</location>
+		<eggSprite>..\media\sprites\splenderEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\splenderM.webp</spriteM>
+		<spriteF>..\media\sprites\splenderF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\splenderArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Splender - Flamingo</dragonName>
+        <eggDescription>This Egg holds colorful light.</eggDescription>
+        <location>Thorn Tree Forest, Breeding</location>
+		<eggSprite>..\media\sprites\splenderEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\splenderFlamingoM.webp</spriteM>
+		<spriteF>..\media\sprites\splenderFlamingoF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\splenderArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Splender - Pigeon</dragonName>
+        <eggDescription>This Egg holds colorful light.</eggDescription>
+        <location>Thorn Tree Forest, Breeding</location>
+		<eggSprite>..\media\sprites\splenderEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\splenderPigeonM.webp</spriteM>
+		<spriteF>..\media\sprites\splenderPigeonF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\splenderArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Star Ace</dragonName>
+        <eggDescription>This Egg wears a radiant guardian's armor.</eggDescription>
+        <location>Quest</location>
+		<eggSprite>..\media\sprites\starAceEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\starAceM.webp</spriteM>
+		<spriteF>..\media\sprites\starAceF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\starAceArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Stealth Dragon - Gen2</dragonName>
+        <eggDescription>This egg contains Memory powder in it.</eggDescription>
+        <location>Breeding (Stealth x Any)</location>
+		<eggSprite>..\media\sprites\stealthEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\stealth2M.webp</spriteM>
+		<spriteF>..\media\sprites\stealth2F.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\stealthArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Stealth Dragon - Gen1 Stealth</dragonName>
+        <eggDescription>This egg contains Memory powder in it.</eggDescription>
+        <location>Monthly Egg (July)</location>
+		<eggSprite>..\media\sprites\stealthEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\stealthM.webp</spriteM>
+		<spriteF>..\media\sprites\stealthF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\stealthArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Stealth Dragon - Gen1 Snow Field</dragonName>
+        <eggDescription>This egg contains Memory powder in it.</eggDescription>
+        <location>Monthly Egg (July)</location>
+		<eggSprite>..\media\sprites\stealthEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\stealthSnowM.webp</spriteM>
+		<spriteF>..\media\sprites\stealthSnowF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\stealthArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Stealth Dragon - Gen1 Fantasy</dragonName>
+        <eggDescription>This egg contains Memory powder in it.</eggDescription>
+        <location>Monthly Egg (July)</location>
+		<eggSprite>..\media\sprites\stealthEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\stealthFantasyM.webp</spriteM>
+		<spriteF>..\media\sprites\stealthFantasyF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\stealthArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Stealth Dragon - Gen1 Fury</dragonName>
+        <eggDescription>This egg contains Memory powder in it.</eggDescription>
+        <location>Monthly Egg (July)</location>
+		<eggSprite>..\media\sprites\stealthEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\stealthFuryM.webp</spriteM>
+		<spriteF>..\media\sprites\stealthFuryF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\stealthArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Stra</dragonName>
+        <eggDescription>This Egg dreams of freedom of all life forms.</eggDescription>
+        <location>Wanderer (September 2023)</location>
+		<eggSprite>..\media\sprites\straEgg.webp</eggSprite>
+        <spriteM></spriteM>
+		<spriteF>..\media\sprites\straF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\straArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Sullae</dragonName>
+        <eggDescription>This Egg looks like a gourd.</eggDescription>
+        <location>Event (Moonlight Affairs)</location>
+		<eggSprite>..\media\sprites\sullaeEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\sullaeM.webp</spriteM>
+		<spriteF>..\media\sprites\sullaeF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\sullaeArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Sura Dragon</dragonName>
+        <eggDescription>This Egg emanates intense heat.</eggDescription>
+        <location>Help Request (Crystal Mine), 4 Unreal Crystals</location>
+		<eggSprite>..\media\sprites\suraEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\suraM.webp</spriteM>
+		<spriteF>..\media\sprites\suraF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\suraArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Swamp Dragon - Summer</dragonName>
+        <eggDescription>This Egg resembles a part of nature.	</eggDescription>
+        <location>Forest of Hope, Hatch during Summer</location>
+		<eggSprite>..\media\sprites\swampEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\swampM.webp</spriteM>
+		<spriteF>..\media\sprites\swampF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\swampArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Swamp Dragon - Maple</dragonName>
+        <eggDescription>This Egg resembles a part of nature.	</eggDescription>
+        <location>Forest of Hope, Hatch during Autumn</location>
+		<eggSprite>..\media\sprites\swampEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\swampMapleM.webp</spriteM>
+		<spriteF>..\media\sprites\swampMapleF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\swampArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>T-Rex Dragon</dragonName>
+        <eggDescription>This Egg radiates authority.</eggDescription>
+        <location>Help Request (Tomb of Ancient Dragons), 3 Ancient Dragon Skulls</location>
+		<eggSprite>..\media\sprites\tRexEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\tRexM.webp</spriteM>
+		<spriteF>..\media\sprites\tRexF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\tRexArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Taabire</dragonName>
+        <eggDescription>This Egg is surrounded by static electricity.</eggDescription>
+        <location>Forest of Hope, Wrecked Ship, Mountain of Fire, Wind Temple, Sky Temple, Rainbow Garden</location>
+		<eggSprite>..\media\sprites\taabireEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\taabireM.webp</spriteM>
+		<spriteF>..\media\sprites\taabireF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\taabireArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Red Taabire</dragonName>
+        <eggDescription>Blue static electricity is created around this Egg.</eggDescription>
+        <location>Breeding (Taabire x Any Fire)</location>
+		<eggSprite>..\media\sprites\taabireRedEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\taabireRedM.webp</spriteM>
+		<spriteF>..\media\sprites\taabireRedF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\taabireArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Taros</dragonName>
+        <eggDescription>This Egg has a hump on its shell.</eggDescription>
+        <location>	Crystal Mine</location>
+		<eggSprite>..\media\sprites\tarosEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\tarosM.webp</spriteM>
+		<spriteF>..\media\sprites\tarosF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\tarosArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Tattoo Dragon - Default</dragonName>
+        <eggDescription>This Dragon's Egg has an interest in intricate patterns.</eggDescription>
+        <location>Crystal Mine</location>
+		<eggSprite>..\media\sprites\tattooEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\tattooM.webp</spriteM>
+		<spriteF>..\media\sprites\tattooF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\tattooArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Tattoo Dragon - Black</dragonName>
+        <eggDescription>This Dragon's Egg has an interest in intricate patterns.</eggDescription>
+        <location>Crystal Mine</location>
+		<eggSprite>..\media\sprites\tattooEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\tattooBlackM.webp</spriteM>
+		<spriteF>..\media\sprites\tattooBlackF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\tattooArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Tattoo Dragon - Doodle</dragonName>
+        <eggDescription>This Dragon's Egg has an interest in intricate patterns.</eggDescription>
+        <location>Crystal Mine</location>
+		<eggSprite>..\media\sprites\tattooEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\tattooDoodleM.webp</spriteM>
+		<spriteF>..\media\sprites\tattooDoodleF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\tattooArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Teddy Dragon</dragonName>
+        <eggDescription>This Egg has buttons attached.</eggDescription>
+        <location>Quest</location>
+		<eggSprite>..\media\sprites\teddyEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\teddyM.webp</spriteM>
+		<spriteF>..\media\sprites\teddyF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\teddyArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Tediblo</dragonName>
+        <eggDescription>This Egg has been abandoned after being loved.</eggDescription>
+        <location>Breeding (Teddy x Devilgon)</location>
+		<eggSprite>..\media\sprites\tedibloEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\tedibloM.webp</spriteM>
+		<spriteF>..\media\sprites\tedibloF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\tedibloArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Teygeta</dragonName>
+        <eggDescription>This Egg is highly loyal.</eggDescription>
+        <location>Wind Temple</location>
+		<eggSprite>..\media\sprites\teygetaEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\teygetaM.webp</spriteM>
+		<spriteF>..\media\sprites\teygetaF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\teygetaArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Timber Dragon</dragonName>
+        <eggDescription>This Egg looks like a bunch of twigs.</eggDescription>
+        <location>Help Request (Forest of Hope), 3 Old Tree Saps</location>
+		<eggSprite>..\media\sprites\timberEgg.webp</eggSprite>
+        <spriteM></spriteM>
+		<spriteF></spriteF>
+		<spriteN>..\media\sprites\timberN.webp</spriteN>
+        <artwork>..\media\artwork\timberArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Titan</dragonName>
+        <eggDescription>This Egg holds the strength of giants.</eggDescription>
+        <location>Tomb of Ancient Dragons</location>
+		<eggSprite>..\media\sprites\titanEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\titanM.webp</spriteM>
+		<spriteF>..\media\sprites\titanF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\titanArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Totem Dragon</dragonName>
+        <eggDescription>A sharp feather is stuck in this Egg.</eggDescription>
+        <location>Quest</location>
+		<eggSprite>..\media\sprites\totemEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\totemM.webp</spriteM>
+		<spriteF>..\media\sprites\totemF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\totemArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Tycane</dragonName>
+        <eggDescription>The dragon inside this egg can summon a gust of wind and lightning.</eggDescription>
+        <location>Breeding (Typhoon x Hurricane)</location>
+		<eggSprite>..\media\sprites\tycaneEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\tycaneM.webp</spriteM>
+		<spriteF>..\media\sprites\tycaneF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\tycaneArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Typhoon Dragon</dragonName>
+        <eggDescription>The dragon inside this egg has a soft mane.</eggDescription>
+        <location>Wind Temple</location>
+		<eggSprite>..\media\sprites\typhoonEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\typhoonM.webp</spriteM>
+		<spriteF>..\media\sprites\typhoonF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\typhoonArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Underground Dragon</dragonName>
+        <eggDescription>This Egg is found deep in the ground.</eggDescription>
+        <location>Forest of Hope, Wrecked Ship, Mountain of Fire, Wind Temple, Sky Temple, Rainbow Garden</location>
+		<eggSprite>..\media\sprites\undergroundEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\undergroundM.webp</spriteM>
+		<spriteF>..\media\sprites\undergroundF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\undergroundArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Vagabond</dragonName>
+        <eggDescription>This Egg has many scars.</eggDescription>
+        <location>Wanderer (May 2023)</location>
+		<eggSprite>..\media\sprites\vagabondEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\vagabondM.webp</spriteM>
+		<spriteF>..\media\sprites\vagabondF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\vagabondArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Valla</dragonName>
+        <eggDescription>The branches around this Egg can be easily broken.</eggDescription>
+        <location>Rainbow Garden</location>
+		<eggSprite>..\media\sprites\vallaEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\vallaM.webp</spriteM>
+		<spriteF>..\media\sprites\vallaF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\vallaArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Valla - Full Moon</dragonName>
+        <eggDescription>The branches around this Egg can be easily broken.</eggDescription>
+        <location>Rainbow Garden, Hatch during Full Moon</location>
+		<eggSprite>..\media\sprites\vallaEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\vallaFullM.webp</spriteM>
+		<spriteF>..\media\sprites\vallaFullF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\vallaArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Vargr</dragonName>
+        <eggDescription>This Egg evokes a sense of vengeance.</eggDescription>
+        <location>Help Request (Thorn Tree Forest), 5 Venomous Dews</location>
+		<eggSprite>..\media\sprites\vargrEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\vargrM.webp</spriteM>
+		<spriteF>..\media\sprites\vargrF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\vargrArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Vefal</dragonName>
+        <eggDescription>This Egg evolves gradually.</eggDescription>
+        <location>Wrecked Ship</location>
+		<eggSprite>..\media\sprites\vefalEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\vefalM.webp</spriteM>
+		<spriteF>..\media\sprites\vefalF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\vefalArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Vera</dragonName>
+        <eggDescription>This Egg resonates with ancient power.</eggDescription>
+        <location>Crystal Mine</location>
+		<eggSprite>..\media\sprites\veraEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\veraM.webp</spriteM>
+		<spriteF>..\media\sprites\veraF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\veraArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Volcano Dragon</dragonName>
+        <eggDescription>This egg is made of lava.</eggDescription>
+        <location>Mountain of Fire, Sky Temple</location>
+		<eggSprite>..\media\sprites\volcanoEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\volcanoM.webp</spriteM>
+		<spriteF>..\media\sprites\volcanoF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\volcanoArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Voncias</dragonName>
+        <eggDescription>This Egg is heavy contrary to its looks.</eggDescription>
+        <location>Wrecked Ship</location>
+		<eggSprite>..\media\sprites\vonciasEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\vonciasM.webp</spriteM>
+		<spriteF>..\media\sprites\vonciasF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\vonciasArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Vonsharkgon</dragonName>
+        <eggDescription>This Egg has white fins.</eggDescription>
+        <location>Breeding (Shark x Voncias)</location>
+		<eggSprite>..\media\sprites\vonsharkEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\vonsharkM.webp</spriteM>
+		<spriteF>..\media\sprites\vonsharkF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\vonsharkArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Water Dragon</dragonName>
+        <eggDescription>This Egg looks like it's wearing a crown.</eggDescription>
+        <location>Wrecked Ship</location>
+		<eggSprite>..\media\sprites\waterEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\waterM.webp</spriteM>
+		<spriteF>..\media\sprites\waterF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\waterArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Dream Water Dragon</dragonName>
+        <eggDescription>This Egg flickers.</eggDescription>
+        <location>Breeding (Water x Any Dream)</location>
+		<eggSprite>..\media\sprites\waterDreamEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\waterDreamM.webp</spriteM>
+		<spriteF>..\media\sprites\waterDreamF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\waterDreamArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>White Dragon</dragonName>
+        <eggDescription>This Egg forms bright light around it.</eggDescription>
+        <location>Achievement (Play for 30 and 365 Days)</location>
+		<eggSprite>..\media\sprites\whiteEgg.webp</eggSprite>
+        <spriteM></spriteM>
+		<spriteF>..\media\sprites\whiteF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\whiteArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>White Thunder Dragon</dragonName>
+        <eggDescription>Horns of lightning are on this Egg's eggshell.</eggDescription>
+        <location>Rainbow Garden</location>
+		<eggSprite>..\media\sprites\whiteThunderEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\whiteThunderM.webp</spriteM>
+		<spriteF>..\media\sprites\whiteThunderF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\whiteThunderArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Wind Dragon</dragonName>
+        <eggDescription>This Egg is about to sway in the wind.	</eggDescription>
+        <location>Forest of Hope, Wrecked Ship, Wind Temple</location>
+		<eggSprite>..\media\sprites\windEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\windM.webp</spriteM>
+		<spriteF>..\media\sprites\windF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\windArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Wind Dragon - Special Forms (Both Female)</dragonName>
+        <eggDescription>This Egg is about to sway in the wind.</eggDescription>
+        <location>Wrecked Ship (Flower), Forest of Hope (Green)</location>
+		<eggSprite>..\media\sprites\windEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\windFlowerF.webp</spriteM>
+		<spriteF>..\media\sprites\windGreenF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\windArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Wings Dragon</dragonName>
+        <eggDescription>This Egg has wings with a fancy pattern.</eggDescription>
+        <location>Wind Temple</location>
+		<eggSprite>..\media\sprites\wingsEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\wingsM.webp</spriteM>
+		<spriteF>..\media\sprites\wingsF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\wingsArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Witch Dragon</dragonName>
+        <eggDescription>This Egg radiates magic energy.</eggDescription>
+        <location>Altar of Darkness</location>
+		<eggSprite>..\media\sprites\witchEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\witchM.webp</spriteM>
+		<spriteF>..\media\sprites\witchF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\witchArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Zephyros</dragonName>
+        <eggDescription>This Egg prepares to fly through the sky.</eggDescription>
+        <location>Wind Temple</location>
+		<eggSprite>..\media\sprites\zephyrosEgg.webp</eggSprite>
+        <spriteM>..\media\sprites\zephyrosM.webp</spriteM>
+		<spriteF>..\media\sprites\zephyrosF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>..\media\artwork\zephyrosArt.webp</artwork>
+    </dragon>
+	
+    <!-- Add more dragon entries here -->
+</dragons>

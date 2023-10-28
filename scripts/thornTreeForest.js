@@ -1,0 +1,120 @@
+document.addEventListener("DOMContentLoaded", function () {
+    // Load XML data using XMLHttpRequest
+    var xhr = new XMLHttpRequest();
+    xhr.open("GET", "../xml/dragons.xml", true);
+    xhr.onreadystatechange = function () {
+        if (xhr.readyState == 4 && xhr.status == 200) {
+            var xmlDoc = xhr.responseXML;
+            var dragons = xmlDoc.getElementsByTagName("dragon");
+
+            // Handle search input
+            var searchInput = document.getElementById("searchInput");
+            var locationFilter = "Thorn Tree Forest"; // Default location filter
+
+            // Define a function to update the displayed results
+            function updateResults() {
+                var searchTerm = searchInput.value.toLowerCase();
+                displayResults(dragons, searchTerm, locationFilter);
+            }
+
+            // Attach the updateResults function to the input event
+            searchInput.addEventListener("input", updateResults);
+
+            // Get the clear search button element
+            var clearSearchButton = document.getElementById("clearSearch");
+
+            // Add a click event listener to clear the search input
+            clearSearchButton.addEventListener("click", function () {
+                searchInput.value = ""; // Clear the search input
+                updateResults(); // Update results after clearing
+            });
+
+            // Initial display of all dragons with the default location filter
+            updateResults();
+        }
+    };
+    xhr.send();
+});
+
+function displayResults(dragons, searchTerm, locationFilter) {
+    var tableBody = document.getElementById("tableBody");
+    tableBody.innerHTML = "";
+
+    for (var i = 0; i < dragons.length; i++) {
+        var dragon = dragons[i];
+        var dragonName = dragon.getElementsByTagName("dragonName")[0].textContent;
+        var eggDescription = dragon.getElementsByTagName("eggDescription")[0].textContent;
+        var location = dragon.getElementsByTagName("location")[0].textContent;
+        var eggSpriteElement = dragon.getElementsByTagName("eggSprite")[0];
+        var eggSprite = eggSpriteElement ? eggSpriteElement.textContent : "";
+        var spriteM = dragon.getElementsByTagName("spriteM")[0].textContent;
+        var spriteF = dragon.getElementsByTagName("spriteF")[0].textContent;
+        var spriteN = dragon.getElementsByTagName("spriteN")[0].textContent;
+        var artworkURL = dragon.getElementsByTagName("artwork")[0].textContent;
+
+        // Check if the dragon's location contains the location filter
+        if (location.toLowerCase().includes(locationFilter.toLowerCase())) {
+            // Check if any column contains the search term (case insensitive)
+            if (
+                dragonName.toLowerCase().includes(searchTerm) ||
+                eggDescription.toLowerCase().includes(searchTerm)
+            ) {
+                var row = document.createElement("tr");
+
+                var dragonNameCell = document.createElement("td");
+                dragonNameCell.textContent = dragonName;
+                row.appendChild(dragonNameCell);
+
+                var eggDescriptionCell = document.createElement("td");
+                eggDescriptionCell.textContent = eggDescription;
+                row.appendChild(eggDescriptionCell);
+
+                var locationCell = document.createElement("td");
+                locationCell.textContent = location;
+                row.appendChild(locationCell);
+
+                var eggSpriteCell = document.createElement("td");
+                if (eggSprite) {
+                    var eggSpriteImg = document.createElement("img");
+                    eggSpriteImg.src = eggSprite;
+                    eggSpriteCell.appendChild(eggSpriteImg);
+                }
+                row.appendChild(eggSpriteCell);
+
+                var spriteMCell = document.createElement("td");
+                if (spriteM) {
+                    var spriteMImg = document.createElement("img");
+                    spriteMImg.src = spriteM;
+                    spriteMCell.appendChild(spriteMImg);
+                }
+                row.appendChild(spriteMCell);
+
+                var spriteFCell = document.createElement("td");
+                if (spriteF) {
+                    var spriteFImg = document.createElement("img");
+                    spriteFImg.src = spriteF;
+                    spriteFCell.appendChild(spriteFImg);
+                }
+                row.appendChild(spriteFCell);
+
+                var spriteNCell = document.createElement("td");
+                if (spriteN) {
+                    var spriteNImg = document.createElement("img");
+                    spriteNImg.src = spriteN;
+                    spriteNCell.appendChild(spriteNImg);
+                }
+                row.appendChild(spriteNCell);
+
+                var artworkCell = document.createElement("td");
+                if (artworkURL) {
+                    var artworkImg = document.createElement("img");
+                    artworkImg.src = artworkURL;
+                    artworkCell.appendChild(artworkImg);
+                }
+                row.appendChild(artworkCell);
+
+                tableBody.appendChild(row);
+            }
+        }
+    }
+}
