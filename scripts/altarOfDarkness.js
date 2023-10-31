@@ -61,71 +61,60 @@ function displayResults(dragons, searchTerm, locationFilter) {
             ) {
                 var row = document.createElement("tr");
 
-var dragonNameCell = document.createElement("td");
-			dragonNameCell.innerHTML = dragonName; // Render as HTML
-			row.appendChild(dragonNameCell);
+                var dragonNameCell = document.createElement("td");
+                dragonNameCell.textContent = dragonName;
+                row.appendChild(dragonNameCell);
 
-            var eggDescriptionCell = document.createElement("td");
-            eggDescriptionCell.innerHTML = eggDescription;
-            row.appendChild(eggDescriptionCell);
+                var eggDescriptionCell = document.createElement("td");
+                eggDescriptionCell.textContent = eggDescription;
+                row.appendChild(eggDescriptionCell);
 
-            var locationCell = document.createElement("td");
-            locationCell.innerHTML = location;
-            row.appendChild(locationCell);
+                var locationCell = document.createElement("td");
+                locationCell.textContent = location;
+                row.appendChild(locationCell);
 
-            var careOptionsCell = document.createElement("td");
-            careOptionsCell.innerHTML = careOptions; // Render as HTML
-            row.appendChild(careOptionsCell);
+                var eggSpriteCell = document.createElement("td");
+                if (eggSprite) {
+                    var eggSpriteImg = document.createElement("img");
+                    eggSpriteImg.src = eggSprite;
+                    eggSpriteCell.appendChild(eggSpriteImg);
+                }
+                row.appendChild(eggSpriteCell);
 
-            var personality1Cell = document.createElement("td");
-            personality1Cell.innerHTML = personality1; // Render as HTML
-            row.appendChild(personality1Cell);
+                var spriteMCell = document.createElement("td");
+                if (spriteM) {
+                    var spriteMImg = document.createElement("img");
+                    spriteMImg.src = spriteM;
+                    spriteMCell.appendChild(spriteMImg);
+                }
+                row.appendChild(spriteMCell);
 
-            var personality2Cell = document.createElement("td");
-            personality2Cell.innerHTML = personality2; // Render as HTML
-            row.appendChild(personality2Cell);
+                var spriteFCell = document.createElement("td");
+                if (spriteF) {
+                    var spriteFImg = document.createElement("img");
+                    spriteFImg.src = spriteF;
+                    spriteFCell.appendChild(spriteFImg);
+                }
+                row.appendChild(spriteFCell);
 
-            var eggSpriteCell = document.createElement("td");
-            if (eggSprite) {
-                var eggSpriteImg = document.createElement("img");
-                eggSpriteImg.src = eggSprite;
-                eggSpriteCell.appendChild(eggSpriteImg);
+                var spriteNCell = document.createElement("td");
+                if (spriteN) {
+                    var spriteNImg = document.createElement("img");
+                    spriteNImg.src = spriteN;
+                    spriteNCell.appendChild(spriteNImg);
+                }
+                row.appendChild(spriteNCell);
+
+                var artworkCell = document.createElement("td");
+                if (artworkURL) {
+                    var artworkImg = document.createElement("img");
+                    artworkImg.src = artworkURL;
+                    artworkCell.appendChild(artworkImg);
+                }
+                row.appendChild(artworkCell);
+
+                tableBody.appendChild(row);
             }
-            row.appendChild(eggSpriteCell);
-
-            var spriteMCell = document.createElement("td");
-            if (spriteM) {
-                var spriteMImg = document.createElement("img");
-                spriteMImg.src = spriteM;
-                spriteMCell.appendChild(spriteMImg);
-            }
-            row.appendChild(spriteMCell);
-
-            var spriteFCell = document.createElement("td");
-            if (spriteF) {
-                var spriteFImg = document.createElement("img");
-                spriteFImg.src = spriteF;
-                spriteFCell.appendChild(spriteFImg);
-            }
-            row.appendChild(spriteFCell);
-
-            var spriteNCell = document.createElement("td");
-            if (spriteN) {
-                var spriteNImg = document.createElement("img");
-                spriteNImg.src = spriteN;
-                spriteNCell.appendChild(spriteNImg);
-            }
-            row.appendChild(spriteNCell);
-
-            var artworkCell = document.createElement("td");
-            if (artworkURL) {
-                var artworkImg = document.createElement("img");
-                artworkImg.src = artworkURL;
-                artworkCell.appendChild(artworkImg);
-            }
-            row.appendChild(artworkCell);
-
-            tableBody.appendChild(row);
         }
     }
 }
