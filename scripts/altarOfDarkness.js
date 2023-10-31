@@ -75,6 +75,18 @@ function displayResults(dragons, searchTerm, locationFilter) {
                 var locationCell = document.createElement("td");
                 locationCell.textContent = location;
                 row.appendChild(locationCell);
+				
+				var careOptionsCell = document.createElement("td");
+				careOptionsCell.innerHTML = careOptions; // Render as HTML
+				row.appendChild(careOptionsCell);
+
+				var personality1Cell = document.createElement("td");
+				personality1Cell.innerHTML = personality1; // Render as HTML
+				row.appendChild(personality1Cell);
+
+				var personality2Cell = document.createElement("td");
+				personality2Cell.innerHTML = personality2; // Render as HTML
+				row.appendChild(personality2Cell);
 
                 var eggSpriteCell = document.createElement("td");
                 if (eggSprite) {
