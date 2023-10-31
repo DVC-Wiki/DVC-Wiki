@@ -6,7 +6,7 @@ function loadPage() {
     const monthNames = ['january', 'february', 'march', 'april', 'may', 'june', 'july', 'august', 'september', 'october', 'november', 'december'];
     const selectedMonthName = monthNames[selectedMonth];
 
-	const folderPath = '..\\wanderer\\'; // Adjust the backslashes for the correct file path
+	const folderPath = '\wanderer\\'; // Adjust the backslashes for the correct file path
 	const pageURL = `${folderPath}${selectedMonthName}${selectedYear}.html`;
 
     // Check if the page exists (e.g., file exists on your server)
