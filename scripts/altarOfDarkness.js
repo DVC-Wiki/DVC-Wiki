@@ -45,6 +45,9 @@ function displayResults(dragons, searchTerm, locationFilter) {
         var dragonName = dragon.getElementsByTagName("dragonName")[0].textContent;
         var eggDescription = dragon.getElementsByTagName("eggDescription")[0].textContent;
         var location = dragon.getElementsByTagName("location")[0].textContent;
+        var careOptions = dragon.getElementsByTagName("careOptions")[0].textContent;
+        var personality1 = dragon.getElementsByTagName("personality1")[0].textContent;
+        var personality2 = dragon.getElementsByTagName("personality2")[0].textContent;
         var eggSpriteElement = dragon.getElementsByTagName("eggSprite")[0];
         var eggSprite = eggSpriteElement ? eggSpriteElement.textContent : "";
         var spriteM = dragon.getElementsByTagName("spriteM")[0].textContent;
