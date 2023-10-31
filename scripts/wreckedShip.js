@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", function () {
     // Load XML data using XMLHttpRequest
     var xhr = new XMLHttpRequest();
-    xhr.open("GET", "../xml/dragons.xml", true);
+    xhr.open("GET", "xml/dragons.xml", true);
     xhr.onreadystatechange = function () {
         if (xhr.readyState == 4 && xhr.status == 200) {
             var xmlDoc = xhr.responseXML;
