@@ -61,7 +61,7 @@ function displayResults(dragons, searchTerm, locationFilter) {
             ) {
                 var row = document.createElement("tr");
 
-            var dragonNameCell = document.createElement("td");
+var dragonNameCell = document.createElement("td");
 			dragonNameCell.innerHTML = dragonName; // Render as HTML
 			row.appendChild(dragonNameCell);
 
