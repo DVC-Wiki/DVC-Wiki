@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="css\style.css">
+    <script src="scripts\wreckedShip.js"></script>
+    <title>Wrecked Ship</title>
+</head>
+<header>
+	<script id="replace_with_navbar" src="scripts\navbar.js"></script>
+</header>
+<body>
+    <img src="media\exploration\wreckedShip.webp" height="300">
+	
+	<div class="search-container">
+		<input type="text" id="searchInput" placeholder="Search Dragons...">
+		<span class="clear-search" id="clearSearch">X</span>
+	</div>
+    <table id="dragonTable">
+        <thead>
+            <tr>
+                <th style="width: 5%;">Dragon Name</th>
+                <th style="width: 10%;">Egg Description</th>
+                <th style="width: 7%;">Location</th>
+				<th style="width: 8%;">Egg Sprite</th>
+                <th style="width: 15%;">Sprite Male</th>
+				<th style="width: 15%;">Sprite Female</th>
+				<th style="width: 15%;">Sprite Neutral/Special</th>
+                <th style="width: 15%;">Artwork</th>
+            </tr>
+        </thead>
+        <tbody id="tableBody"></tbody>
+    </table>
+</body>
+</html>
