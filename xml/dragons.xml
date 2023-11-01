@@ -249,7 +249,7 @@
 	<dragon>
         <dragonName>Angra</dragonName>
         <eggDescription>This Egg bears God's Curse.</eggDescription>
-        <location>Rare PvP Reward</location>
+        <location>Rare Arena Reward</location>
 		<careOptions>Care (x)&lt;br&gt;Care (x)</careOptions>
 		<personality1>[Personality]&lt;br&gt;0 Agi&lt;br&gt;0 Str&lt;br&gt;0 Foc&lt;br&gt;0 Int</personality1>
 		<personality2>[Personality]&lt;br&gt;0 Agi&lt;br&gt;0 Str&lt;br&gt;0 Foc&lt;br&gt;0 Int</personality2>
@@ -261,8 +261,8 @@
     </dragon>
 	<dragon>
         <dragonName>Angra&lt;br&gt;Black</dragonName>
-        <eggDescription>This Egg has small wings.</eggDescription>
-        <location>Breeding&lt;br&gt;(Angel x God)</location>
+        <eggDescription>This Egg bears God's Curse.</eggDescription>
+        <location>Very Arena Reward</location>
 		<careOptions>Care (x)&lt;br&gt;Care (x)</careOptions>
 		<personality1>[Personality]&lt;br&gt;0 Agi&lt;br&gt;0 Str&lt;br&gt;0 Foc&lt;br&gt;0 Int</personality1>
 		<personality2>[Personality]&lt;br&gt;0 Agi&lt;br&gt;0 Str&lt;br&gt;0 Foc&lt;br&gt;0 Int</personality2>
@@ -2939,7 +2939,7 @@
     </dragon>
 	<dragon>
         <dragonName>Non&lt;br&gt;Default/Gen2</dragonName>
-        <eggDescription>The thorns on this Egg continue to grow.</eggDescription>
+        <eggDescription>This Egg is found in the Void Abyss.</eggDescription>
         <location>Void Abyss with not-Gen1 / Impure breeding</location>
 		<careOptions>Care (x)&lt;br&gt;Care (x)</careOptions>
 		<personality1>[Personality]&lt;br&gt;0 Agi&lt;br&gt;0 Str&lt;br&gt;0 Foc&lt;br&gt;0 Int</personality1>
