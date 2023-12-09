@@ -533,6 +533,19 @@
         <artwork>media\artwork\berrisArt.webp</artwork>
     </dragon>
 	<dragon>
+        <dragonName>Blue Bird Berris</dragonName>
+        <eggDescription>This Egg is wearing a blue brooch.</eggDescription>
+        <location>Evria</location>
+		<careOptions>Sleep (Great)&lt;br&gt;Feed (Very Good)&lt;br&gt;Analyze (Hmm)&lt;br&gt;Play (Fair)&lt;br&gt;Wash (Good)&lt;br&gt;Entrap (Excellent)</careOptions>
+		<personality1>[Unknown]&lt;br&gt;1 Agi&lt;br&gt;1 Str&lt;br&gt;1 Foc&lt;br&gt;1 Int</personality1>
+		<personality2>[Unknown]&lt;br&gt;1 Agi&lt;br&gt;1 Str&lt;br&gt;1 Foc&lt;br&gt;1 Int</personality2>
+		<eggSprite>media\sprites\berrisBlueEgg.webp</eggSprite>
+        <spriteM>media\sprites\berrisBlueM.webp</spriteM>
+		<spriteF>media\sprites\berrisBlueF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>media\artwork\berrisBlueArt.webp</artwork>
+    </dragon>
+	<dragon>
         <dragonName>Black Dragon</dragonName>
         <eggDescription>This Egg forms a blanket of dark fog around it.</eggDescription>
         <location>Achievement (Complete 50 and 100 Dragon Book Entries)</location>
@@ -739,6 +752,84 @@
 		<spriteF></spriteF>
 		<spriteN>media\sprites\citaelN.webp</spriteN>
         <artwork>media\artwork\citaelArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Clavis&lt;br&gt;Gen2</dragonName>
+        <eggDescription>This egg is covered in roses.</eggDescription>
+        <location>Breeding&lt;br&gt;(Clavis x Any)&lt;br&gt;Monthly Egg (December)</location>
+		<careOptions>Groom (Great)&lt;br&gt;Play (Hmm)&lt;br&gt;Comb (Excellent)&lt;br&gt;Feed (Fair)&lt;br&gt;Sleep (Very Good)&lt;br&gt;Wash (Good)</careOptions>
+		<personality1>[Adamant]&lt;br&gt;10 Agi&lt;br&gt;20 Str&lt;br&gt;10 Foc&lt;br&gt;0 Int</personality1>
+		<personality2>[Quirky]&lt;br&gt;10 Agi&lt;br&gt;25 Str&lt;br&gt;0 Foc&lt;br&gt;10 Int</personality2>
+		<eggSprite>media\sprites\clavisEgg.webp</eggSprite>
+        <spriteM>media\sprites\clavisM.webp</spriteM>
+		<spriteF>media\sprites\clavisF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>media\artwork\clavisArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Clavis&lt;br&gt;Gen2 Christmas</dragonName>
+        <eggDescription>This egg is covered in roses.</eggDescription>
+        <location>Breeding&lt;br&gt;(Clavis x Any, only in December)&lt;br&gt;Monthly Egg (December)</location>
+		<careOptions>Groom (Great)&lt;br&gt;Play (Hmm)&lt;br&gt;Comb (Excellent)&lt;br&gt;Feed (Fair)&lt;br&gt;Sleep (Very Good)&lt;br&gt;Wash (Good)</careOptions>
+		<personality1>[Adamant]&lt;br&gt;10 Agi&lt;br&gt;20 Str&lt;br&gt;10 Foc&lt;br&gt;0 Int</personality1>
+		<personality2>[Quirky]&lt;br&gt;10 Agi&lt;br&gt;25 Str&lt;br&gt;0 Foc&lt;br&gt;10 Int</personality2>
+		<eggSprite>media\sprites\clavisEgg.webp</eggSprite>
+        <spriteM>media\sprites\clavisM.webp</spriteM>
+		<spriteF>media\sprites\clavisF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>media\artwork\clavisArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Clavis&lt;br&gt;Gen1 Red Rose</dragonName>
+        <eggDescription>This egg is covered in roses.</eggDescription>
+        <location>Monthly Egg (December)</location>
+		<careOptions>Groom (Great)&lt;br&gt;Play (Hmm)&lt;br&gt;Comb (Excellent)&lt;br&gt;Feed (Fair)&lt;br&gt;Sleep (Very Good)&lt;br&gt;Wash (Good)</careOptions>
+		<personality1>[Adamant]&lt;br&gt;10 Agi&lt;br&gt;20 Str&lt;br&gt;10 Foc&lt;br&gt;0 Int</personality1>
+		<personality2>[Quirky]&lt;br&gt;10 Agi&lt;br&gt;25 Str&lt;br&gt;0 Foc&lt;br&gt;10 Int</personality2>
+		<eggSprite>media\sprites\clavisEgg.webp</eggSprite>
+        <spriteM>media\sprites\clavisRedM.webp</spriteM>
+		<spriteF>media\sprites\clavisRedF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>media\artwork\clavisArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Clavis&lt;br&gt;Gen1 Lucky Clover</dragonName>
+        <eggDescription>This egg is covered in roses.</eggDescription>
+        <location>Monthly Egg (December)</location>
+		<careOptions>Groom (Great)&lt;br&gt;Play (Hmm)&lt;br&gt;Comb (Excellent)&lt;br&gt;Feed (Fair)&lt;br&gt;Sleep (Very Good)&lt;br&gt;Wash (Good)</careOptions>
+		<personality1>[Adamant]&lt;br&gt;10 Agi&lt;br&gt;20 Str&lt;br&gt;10 Foc&lt;br&gt;0 Int</personality1>
+		<personality2>[Quirky]&lt;br&gt;10 Agi&lt;br&gt;25 Str&lt;br&gt;0 Foc&lt;br&gt;10 Int</personality2>
+		<eggSprite>media\sprites\clavisEgg.webp</eggSprite>
+        <spriteM>media\sprites\clavisCloverM.webp</spriteM>
+		<spriteF>media\sprites\clavisCloverF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>media\artwork\clavisArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Clavis&lt;br&gt;Gen1 Pink Rose</dragonName>
+        <eggDescription>This egg is covered in roses.</eggDescription>
+        <location>Monthly Egg (December)</location>
+		<careOptions>Groom (Great)&lt;br&gt;Play (Hmm)&lt;br&gt;Comb (Excellent)&lt;br&gt;Feed (Fair)&lt;br&gt;Sleep (Very Good)&lt;br&gt;Wash (Good)</careOptions>
+		<personality1>[Adamant]&lt;br&gt;10 Agi&lt;br&gt;20 Str&lt;br&gt;10 Foc&lt;br&gt;0 Int</personality1>
+		<personality2>[Quirky]&lt;br&gt;10 Agi&lt;br&gt;25 Str&lt;br&gt;0 Foc&lt;br&gt;10 Int</personality2>
+		<eggSprite>media\sprites\clavisEgg.webp</eggSprite>
+        <spriteM>media\sprites\clavisPinkM.webp</spriteM>
+		<spriteF>media\sprites\clavisPinkF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>media\artwork\clavisArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Clavis&lt;br&gt;Gen1 Frozen Rose</dragonName>
+        <eggDescription>This egg is covered in roses.</eggDescription>
+        <location>Monthly Egg (December)</location>
+		<careOptions>Groom (Great)&lt;br&gt;Play (Hmm)&lt;br&gt;Comb (Excellent)&lt;br&gt;Feed (Fair)&lt;br&gt;Sleep (Very Good)&lt;br&gt;Wash (Good)</careOptions>
+		<personality1>[Adamant]&lt;br&gt;10 Agi&lt;br&gt;20 Str&lt;br&gt;10 Foc&lt;br&gt;0 Int</personality1>
+		<personality2>[Quirky]&lt;br&gt;10 Agi&lt;br&gt;25 Str&lt;br&gt;0 Foc&lt;br&gt;10 Int</personality2>
+		<eggSprite>media\sprites\clavisEgg.webp</eggSprite>
+        <spriteM>media\sprites\clavisFrozenM.webp</spriteM>
+		<spriteF>media\sprites\clavisFrozenF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>media\artwork\clavisArt.webp</artwork>
     </dragon>
 	<dragon>
         <dragonName>Clockwork Dragon</dragonName>
@@ -960,6 +1051,19 @@
 		<spriteF>media\sprites\darknixLightF.webp</spriteF>
 		<spriteN></spriteN>
         <artwork>media\artwork\darknixLightArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Sealed Darknix</dragonName>
+        <eggDescription>This Egg is bound by chains of sealing.</eggDescription>
+        <location>Gap of Chaos (300)</location>
+		<careOptions>Sleep (Very Good)&lt;br&gt;Wash (Fair)&lt;br&gt;Play (Hmm)&lt;br&gt;Rage (Great)&lt;br&gt;Burp (Excellent)&lt;br&gt;Feed (Good)</careOptions>
+		<personality1>[Hasty]&lt;br&gt;30 Agi&lt;br&gt;15 Str&lt;br&gt;15 Foc&lt;br&gt;0 Int</personality1>
+		<personality2>[Personality]&lt;br&gt;0 Agi&lt;br&gt;0 Str&lt;br&gt;0 Foc&lt;br&gt;0 Int</personality2>
+		<eggSprite>media\sprites\darknixSealedEgg.webp</eggSprite>
+        <spriteM>media\sprites\darknixSealedM.webp</spriteM>
+		<spriteF>media\sprites\darknixSealedF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>media\artwork\darknixSealedArt.webp</artwork>
     </dragon>
 	<dragon>
         <dragonName>Daros</dragonName>
@@ -1300,6 +1404,19 @@
         <artwork>media\artwork\fidesArt.webp</artwork>
     </dragon>
 	<dragon>
+        <dragonName>Pure White Fides</dragonName>
+        <eggDescription>This Egg emits lightning.</eggDescription>
+        <location>Evria</location>
+		<careOptions>Play (Good)&lt;br&gt;Sleep (Great)&lt;br&gt;feed (Hmm)&lt;br&gt;Starburst (Fair)&lt;br&gt;Wash (Very Good)&lt;br&gt;Charge (Excellent)</careOptions>
+		<personality1>[Unknown]&lt;br&gt;1 Agi&lt;br&gt;1 Str&lt;br&gt;1 Foc&lt;br&gt;1 Int</personality1>
+		<personality2>[Unknown]&lt;br&gt;1 Agi&lt;br&gt;1 Str&lt;br&gt;1 Foc&lt;br&gt;1 Int</personality2>
+		<eggSprite>media\sprites\fidesWhiteEgg.webp</eggSprite>
+        <spriteM>media\sprites\fidesWhiteM.webp</spriteM>
+		<spriteF>media\sprites\fidesWhiteF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>media\artwork\fidesWhiteArt.webp</artwork>
+    </dragon>
+	<dragon>
         <dragonName>Feros&lt;br&gt;Gen2</dragonName>
         <eggDescription>This egg waits for the portal to open.	</eggDescription>
         <location>Breeding&lt;br&gt;(Feros x Any)&lt;br&gt;Card Code</location>
@@ -1417,6 +1534,19 @@
         <artwork>media\artwork\floreaArt.webp</artwork>
     </dragon>
 	<dragon>
+        <dragonName>Remorseful Florea</dragonName>
+        <eggDescription>This Egg holds memories.</eggDescription>
+        <location>Evria</location>
+		<careOptions>Feed (Very Good)&lt;br&gt;Wash (Good)&lt;br&gt;Sleep (Fair)&lt;br&gt;Play (Great)&lt;br&gt;Meditate (Excellent)&lt;br&gt;Comb (I'm Tired)</careOptions>
+		<personality1>[Unknown]&lt;br&gt;1 Agi&lt;br&gt;1 Str&lt;br&gt;1 Foc&lt;br&gt;1 Int</personality1>
+		<personality2>[Unknown]&lt;br&gt;1 Agi&lt;br&gt;1 Str&lt;br&gt;1 Foc&lt;br&gt;1 Int</personality2>
+		<eggSprite>media\sprites\floreaRemorseEgg.webp</eggSprite>
+        <spriteM>media\sprites\floreaRemorseM.webp</spriteM>
+		<spriteF>media\sprites\floreaRemorseF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>media\artwork\floreaRemorseArt.webp</artwork>
+    </dragon>
+	<dragon>
         <dragonName>Flower Dragon</dragonName>
         <eggDescription>This Egg is like a flower.</eggDescription>
         <location>Help Request (Rainbow Garden), 3 Lillies 3 Roses, 3 Sunflowers, 3 Tulips, 3 Lilacs</location>
@@ -1428,6 +1558,19 @@
 		<spriteF>media\sprites\flowerF.webp</spriteF>
 		<spriteN></spriteN>
         <artwork>media\artwork\flowerArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Frame</dragonName>
+        <eggDescription>This Egg is stuck in a picture frame.</eggDescription>
+        <location>Thorn Tree Forest</location>
+		<careOptions>Snapshot (Excellent)&lt;br&gt;Feed (Fair)&lt;br&gt;Play (Very Good)&lt;br&gt;Sleep (Good)&lt;br&gt;Wash (Hmm)&lt;br&gt;Dismantle (Great)</careOptions>
+		<personality1>[Hardy]&lt;br&gt;0 Agi&lt;br&gt;10 Str&lt;br&gt;20 Foc&lt;br&gt;0 Int</personality1>
+		<personality2>[Docile]&lt;br&gt;0 Agi&lt;br&gt;10 Str&lt;br&gt;10 Foc&lt;br&gt;30 Int</personality2>
+		<eggSprite>media\sprites\frameEgg.webp</eggSprite>
+        <spriteM>media\sprites\frameM.webp</spriteM>
+		<spriteF>media\sprites\frameF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>media\artwork\frameArt.webp</artwork>
     </dragon>
 	<dragon>
         <dragonName>Frankenstein Dragon</dragonName>
@@ -1755,6 +1898,19 @@
         <artwork>media\artwork\goldieArt.webp</artwork>
     </dragon>
 	<dragon>
+        <dragonName>Gorgon</dragonName>
+        <eggDescription>This Egg is wrapped around a snake.</eggDescription>
+        <location>Tomb of Ancient Dragons</location>
+		<careOptions>Feed (Good)&lt;br&gt;Play (Very Good)&lt;br&gt;Music (Excellent)&lt;br&gt;Chill (I'm Tired)&lt;br&gt;Sleep (Great)&lt;br&gt;Wash (Fair)</careOptions>
+		<personality1>[Quick Witted]&lt;br&gt;30 Agi&lt;br&gt;0 Str&lt;br&gt;0 Foc&lt;br&gt;5 Int</personality1>
+		<personality2>[Calm]&lt;br&gt;10 Agi&lt;br&gt;0 Str&lt;br&gt;20 Foc&lt;br&gt;10 Int</personality2>
+		<eggSprite>media\sprites\gorgonEgg.webp</eggSprite>
+        <spriteM>media\sprites\gorgonM.webp</spriteM>
+		<spriteF>media\sprites\gorgonF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>media\artwork\gorgonArt.webp</artwork>
+    </dragon>
+	<dragon>
         <dragonName>Gracia</dragonName>
         <eggDescription>This Egg breathes with its smooth shell.</eggDescription>
         <location>Wanderer (July 2023)</location>
@@ -1779,6 +1935,19 @@
 		<spriteF>media\sprites\granosF.webp</spriteF>
 		<spriteN></spriteN>
         <artwork>media\artwork\granosArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Griffar</dragonName>
+        <eggDescription>This Egg is surrounded by flames.</eggDescription>
+        <location>Gap of Chaos (100)</location>
+		<careOptions>Feed (Very Good)&lt;br&gt;Sleep (Great)&lt;br&gt;Entrap (No)&lt;br&gt;Play (Good)&lt;br&gt;Ignite (Excellent)&lt;br&gt;Wash (Fair)</careOptions>
+		<personality1>[Quiet]&lt;br&gt;0 Agi&lt;br&gt;10 Str&lt;br&gt;30 Foc&lt;br&gt;10 Int</personality1>
+		<personality2>[Bold]&lt;br&gt;0 Agi&lt;br&gt;30 Str&lt;br&gt;5 Foc&lt;br&gt;0 Int</personality2>
+		<eggSprite>media\sprites\griffarEgg.webp</eggSprite>
+        <spriteM>media\sprites\griffarM.webp</spriteM>
+		<spriteF>media\sprites\griffarF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>media\artwork\griffarArt.webp</artwork>
     </dragon>
 	<dragon>
         <dragonName>Gust</dragonName>
@@ -1831,6 +2000,19 @@
 		<spriteF>media\sprites\hallowF.webp</spriteF>
 		<spriteN></spriteN>
         <artwork>media\artwork\hallowArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Harika</dragonName>
+        <eggDescription>This Egg has a purple jewel embedded in it.</eggDescription>
+        <location>Wanderer (December 2023)</location>
+		<careOptions>Wash (Very Good)&lt;br&gt;Sleep (Fair)&lt;br&gt;Travel (Excellent)&lt;br&gt;Play (Great)&lt;br&gt;Feed (Good)&lt;br&gt;Alone Time (No)</careOptions>
+		<personality1>[Brave]&lt;br&gt;0 Agi&lt;br&gt;30 Str&lt;br&gt;15 Foc&lt;br&gt;15 Int</personality1>
+		<personality2>[Naive]&lt;br&gt;20 Agi&lt;br&gt;0 Str&lt;br&gt;10 Foc&lt;br&gt;10 Int</personality2>
+		<eggSprite>media\sprites\harikaEgg.webp</eggSprite>
+        <spriteM>media\sprites\harikaM.webp</spriteM>
+		<spriteF>media\sprites\harikaF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>media\artwork\harikaArt.webp</artwork>
     </dragon>
 	<dragon>
         <dragonName>Haze</dragonName>
@@ -2249,6 +2431,45 @@
         <artwork>media\artwork\lambgonArt.webp</artwork>
     </dragon>
 	<dragon>
+        <dragonName>Lattegon&lt;br&gt;Gen1</dragonName>
+        <eggDescription>This Egg is topped with cream.</eggDescription>
+        <location>Dal.komm Coffe Collab 2023</location>
+		<careOptions>Sleep (Fair)&lt;br&gt;Groom (Excellent)&lt;br&gt;Play (Very Good)&lt;br&gt;Bathe (Great)&lt;br&gt;Wash (Hmm)&lt;br&gt;Feed (Good)</careOptions>
+		<personality1>[Docile]&lt;br&gt;0 Agi&lt;br&gt;10 Str&lt;br&gt;10 Foc&lt;br&gt;30 Int</personality1>
+		<personality2>[Smart]&lt;br&gt;? Agi&lt;br&gt;0 Str&lt;br&gt;0 Foc&lt;br&gt;30 Int</personality2>
+		<eggSprite>media\sprites\lattegonEgg.webp</eggSprite>
+        <spriteM>media\sprites\lattegonM.webp</spriteM>
+		<spriteF>media\sprites\lattegonF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>media\artwork\lattegonArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Lattegon&lt;br&gt;Gen2</dragonName>
+        <eggDescription>This Egg is topped with cream.</eggDescription>
+        <location>Breeding (Lattegon x Any)&lt;br&gt;Dal.komm Coffe Collab 2023</location>
+		<careOptions>Sleep (Fair)&lt;br&gt;Groom (Excellent)&lt;br&gt;Play (Very Good)&lt;br&gt;Bathe (Great)&lt;br&gt;Wash (Hmm)&lt;br&gt;Feed (Good)</careOptions>
+		<personality1>[Docile]&lt;br&gt;0 Agi&lt;br&gt;10 Str&lt;br&gt;10 Foc&lt;br&gt;30 Int</personality1>
+		<personality2>[Smart]&lt;br&gt;? Agi&lt;br&gt;0 Str&lt;br&gt;0 Foc&lt;br&gt;30 Int</personality2>
+		<eggSprite>media\sprites\lattegonEgg.webp</eggSprite>
+        <spriteM>media\sprites\lattegonG2M.webp</spriteM>
+		<spriteF>media\sprites\lattegonG2F.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>media\artwork\lattegonArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Lattegon&lt;br&gt;Gen2 White Chocolate</dragonName>
+        <eggDescription>This Egg is topped with cream.</eggDescription>
+        <location>Breeding (Lattegon x ?)&lt;br&gt;Dal.komm Coffe Collab 2023</location>
+		<careOptions>Sleep (Fair)&lt;br&gt;Groom (Excellent)&lt;br&gt;Play (Very Good)&lt;br&gt;Bathe (Great)&lt;br&gt;Wash (Hmm)&lt;br&gt;Feed (Good)</careOptions>
+		<personality1>[Docile]&lt;br&gt;0 Agi&lt;br&gt;10 Str&lt;br&gt;10 Foc&lt;br&gt;30 Int</personality1>
+		<personality2>[Smart]&lt;br&gt;? Agi&lt;br&gt;0 Str&lt;br&gt;0 Foc&lt;br&gt;30 Int</personality2>
+		<eggSprite>media\sprites\lattegonEgg.webp</eggSprite>
+        <spriteM>media\sprites\lattegonWhiteM.webp</spriteM>
+		<spriteF>media\sprites\lattegonWhiteF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>media\artwork\lattegonArt.webp</artwork>
+    </dragon>
+	<dragon>
         <dragonName>Lava Dragon</dragonName>
         <eggDescription>This Egg's eggshell has solidified lava on it.</eggDescription>
         <location>Mountain of Fire</location>
@@ -2468,6 +2689,19 @@
 		<spriteF>media\sprites\lucioF.webp</spriteF>
 		<spriteN></spriteN>
         <artwork>media\artwork\lucioArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Nightmare Lucio</dragonName>
+        <eggDescription>This Egg causes hallucinations.</eggDescription>
+        <location>Evria</location>
+		<careOptions>Play (Great)&lt;br&gt;Wash (Good)&lt;br&gt;Alone Time (Excellent)&lt;br&gt;Tickle (No)&lt;br&gt;Feed (Very Good)&lt;br&gt;Sleep (Fair)</careOptions>
+		<personality1>[Unknown]&lt;br&gt;1 Agi&lt;br&gt;1 Str&lt;br&gt;1 Foc&lt;br&gt;1 Int</personality1>
+		<personality2>[Unknown]&lt;br&gt;1 Agi&lt;br&gt;1 Str&lt;br&gt;1 Foc&lt;br&gt;1 Int</personality2>
+		<eggSprite>media\sprites\lucioNightmareEgg.webp</eggSprite>
+        <spriteM>media\sprites\lucioNightmareM.webp</spriteM>
+		<spriteF>media\sprites\lucioNightmareF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>media\artwork\lucioNightmareArt.webp</artwork>
     </dragon>
 	<dragon>
         <dragonName>Lumindis&lt;br&gt;Gen2</dragonName>
@@ -2977,6 +3211,19 @@
         <artwork>media\artwork\nonArt.webp</artwork>
     </dragon>
 	<dragon>
+        <dragonName>Pure Evil Non</dragonName>
+        <eggDescription>This Egg wants to create its own world.</eggDescription>
+        <location>Evria</location>
+		<careOptions>Care (x)&lt;br&gt;Care (x)</careOptions>
+		<personality1>[Unknown]&lt;br&gt;1 Agi&lt;br&gt;1 Str&lt;br&gt;1 Foc&lt;br&gt;1 Int</personality1>
+		<personality2>[Unknown]&lt;br&gt;1 Agi&lt;br&gt;1 Str&lt;br&gt;1 Foc&lt;br&gt;1 Int</personality2>
+		<eggSprite>media\sprites\nonEvilEgg.webp</eggSprite>
+        <spriteM>media\sprites\nonEvilM.webp</spriteM>
+		<spriteF>media\sprites\nonEvilF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>media\artwork\nonEvilArt.webp</artwork>
+    </dragon>
+	<dragon>
         <dragonName>Nox</dragonName>
         <eggDescription>The thorns on this Egg continue to grow.</eggDescription>
         <location>Sky Temple</location>
@@ -3003,6 +3250,19 @@
         <artwork>media\artwork\obexArt.webp</artwork>
     </dragon>
 	<dragon>
+        <dragonName>Dreamer Obex</dragonName>
+        <eggDescription>This Egg wants to create a world of imagination.</eggDescription>
+        <location>Evria</location>
+		<careOptions>Wash (Hmm)&lt;br&gt;Play (Fair)&lt;br&gt;Feed (Very Good)&lt;br&gt;Analyze (Excellent)&lt;br&gt;Sleep (Good)&lt;br&gt;Craft (Great)</careOptions>
+		<personality1>[Unknown]&lt;br&gt;1 Agi&lt;br&gt;1 Str&lt;br&gt;1 Foc&lt;br&gt;1 Int</personality1>
+		<personality2>[Unknown]&lt;br&gt;1 Agi&lt;br&gt;1 Str&lt;br&gt;1 Foc&lt;br&gt;1 Int</personality2>
+		<eggSprite>media\sprites\obexDreamerEgg.webp</eggSprite>
+        <spriteM>media\sprites\obexDreamerM.webp</spriteM>
+		<spriteF>media\sprites\obexDreamerF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>media\artwork\obexDreamerArt.webp</artwork>
+    </dragon>
+	<dragon>
         <dragonName>Oculus</dragonName>
         <eggDescription>This Egg instinctively hovers around souls.</eggDescription>
         <location>Wanderer (August 2023)</location>
@@ -3014,6 +3274,19 @@
 		<spriteF>media\sprites\oculusF.webp</spriteF>
 		<spriteN></spriteN>
         <artwork>media\artwork\oculusArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Pancake Dragon</dragonName>
+        <eggDescription>This Egg has a sweet taste.</eggDescription>
+        <location>Crystal Mine</location>
+		<careOptions>Play (Good)&lt;br&gt;Sleep (Fair)&lt;br&gt;Praise (Very Good)&lt;br&gt;Give Honey (Excellent)&lt;br&gt;Wash (Hmm)&lt;br&gt;Feed (Great)</careOptions>
+		<personality1>[Docile]&lt;br&gt;0 Agi&lt;br&gt;10 Str&lt;br&gt;10 Foc&lt;br&gt;25 Int</personality1>
+		<personality2>[Naive]&lt;br&gt;30 Agi&lt;br&gt;0 Str&lt;br&gt;10 Foc&lt;br&gt;10 Int</personality2>
+		<eggSprite>media\sprites\pancakeEgg.webp</eggSprite>
+        <spriteM>media\sprites\pancakeM.webp</spriteM>
+		<spriteF>media\sprites\pancakeF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>media\artwork\pancakeArt.webp</artwork>
     </dragon>
 	<dragon>
         <dragonName>Pangpang</dragonName>
@@ -3261,6 +3534,19 @@
 		<spriteF>media\sprites\poisonRiverF.webp</spriteF>
 		<spriteN></spriteN>
         <artwork>media\artwork\poisonRiverArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Golden Poison River</dragonName>
+        <eggDescription>This Egg has golden tentacles attached to it.</eggDescription>
+        <location>Evria</location>
+		<careOptions>Sleep (Very Good)&lt;br&gt;Soak (Hmm)&lt;br&gt;Feed (Ecxellent)&lt;br&gt;Play (Fair)&lt;br&gt;Alone Time (Great)&lt;br&gt;Wash (Good)</careOptions>
+		<personality1>[Unknown]&lt;br&gt;1 Agi&lt;br&gt;1 Str&lt;br&gt;1 Foc&lt;br&gt;1 Int</personality1>
+		<personality2>[Unknown]&lt;br&gt;1 Agi&lt;br&gt;1 Str&lt;br&gt;1 Foc&lt;br&gt;1 Int</personality2>
+		<eggSprite>media\sprites\poisonRiverGoldEgg.webp</eggSprite>
+        <spriteM>media\sprites\poisonRiverGoldM.webp</spriteM>
+		<spriteF>media\sprites\poisonRiverGoldF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>media\artwork\poisonRiverGoldArt.webp</artwork>
     </dragon>
 	<dragon>
         <dragonName>Popomo</dragonName>
@@ -4407,6 +4693,19 @@
         <artwork>media\artwork\teygetaArt.webp</artwork>
     </dragon>
 	<dragon>
+        <dragonName>Tilki</dragonName>
+        <eggDescription>This Egg is wearing a crown.</eggDescription>
+        <location>Wanderer (December 2023)</location>
+		<careOptions>Travel (Excellent)&lt;br&gt;Wash (Hmm)&lt;br&gt;Feed (Fair)&lt;br&gt;Play (Great)&lt;br&gt;Sleep (Good)&lt;br&gt;Analyze (Very Good)</careOptions>
+		<personality1>[Naive]&lt;br&gt;30 Agi&lt;br&gt;0 Str&lt;br&gt;15 Foc&lt;br&gt;15 Int</personality1>
+		<personality2>[Docile]&lt;br&gt;0 Agi&lt;br&gt;15 Str&lt;br&gt;15 Foc&lt;br&gt;30 Int</personality2>
+		<eggSprite>media\sprites\tilkiEgg.webp</eggSprite>
+        <spriteM>media\sprites\tilkiM.webp</spriteM>
+		<spriteF>media\sprites\tilkiF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>media\artwork\tilkiArt.webp</artwork>
+    </dragon>
+	<dragon>
         <dragonName>Timber Dragon</dragonName>
         <eggDescription>This Egg looks like a bunch of twigs.</eggDescription>
         <location>Help Request (Forest of Hope), 3 Old Tree Saps</location>
@@ -4509,6 +4808,19 @@
 		<spriteF>media\sprites\vegabondF.webp</spriteF>
 		<spriteN></spriteN>
         <artwork>media\artwork\vegabondArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Valefor</dragonName>
+        <eggDescription>This Egg wants to create chaos.</eggDescription>
+        <location>Wanderer (May 2023)</location>
+		<careOptions>Feed (Very Good)&lt;br&gt;Sleep (Good)&lt;br&gt;Play (Great)&lt;br&gt;Wash (Fair)&lt;br&gt;Discipline (I'm Tired)&lt;br&gt;Rage (Excellent)</careOptions>
+		<personality1>[Adamant]&lt;br&gt;10 Agi&lt;br&gt;25 Str&lt;br&gt;10 Foc&lt;br&gt;0 Int</personality1>
+		<personality2>[Quirky]&lt;br&gt;10 Agi&lt;br&gt;30 Str&lt;br&gt;0 Foc&lt;br&gt;10 Int</personality2>
+		<eggSprite>media\sprites\valeforEgg.webp</eggSprite>
+        <spriteM>media\sprites\valeforM.webp</spriteM>
+		<spriteF>media\sprites\valeforF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>media\artwork\valeforArt.webp</artwork>
     </dragon>
 	<dragon>
         <dragonName>Valla</dragonName>
@@ -4615,6 +4927,19 @@
         <artwork>media\artwork\vonsharkArt.webp</artwork>
     </dragon>
 	<dragon>
+        <dragonName>Voodoo Dragon</dragonName>
+        <eggDescription>This Egg has an eerie feel.</eggDescription>
+        <location>Altar of Darkness</location>
+		<careOptions>Play (Very Good)&lt;br&gt;Joke (Good)&lt;br&gt;Wash (Fair)&lt;br&gt;Sleep (Hmm)&lt;br&gt;Tickle (Great)&lt;br&gt;Feed (Excellent)</careOptions>
+		<personality1>[Quirky]&lt;br&gt;10 Agi&lt;br&gt;20 Str&lt;br&gt;0 Foc&lt;br&gt;10 Int</personality1>
+		<personality2>[Quick Witted]&lt;br&gt;20 Agi&lt;br&gt;0 Str&lt;br&gt;10 Foc&lt;br&gt;0 Int</personality2>
+		<eggSprite>media\sprites\voodooEgg.webp</eggSprite>
+        <spriteM>media\sprites\voodooM.webp</spriteM>
+		<spriteF>media\sprites\voodooF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>media\artwork\voodooArt.webp</artwork>
+    </dragon>
+	<dragon>
         <dragonName>Water Dragon</dragonName>
         <eggDescription>This Egg looks like it's wearing a crown.</eggDescription>
         <location>Wrecked Ship</location>
@@ -4717,6 +5042,32 @@
 		<spriteF>media\sprites\witchF.webp</spriteF>
 		<spriteN></spriteN>
         <artwork>media\artwork\witchArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Forbidden Witch Dragon</dragonName>
+        <eggDescription>This Egg has an aura of benevolent magic.</eggDescription>
+        <location>Evria</location>
+		<careOptions>Care (x)&lt;br&gt;Care (x)</careOptions>
+		<personality1>[Unknown]&lt;br&gt;1 Agi&lt;br&gt;1 Str&lt;br&gt;1 Foc&lt;br&gt;1 Int</personality1>
+		<personality2>[Unknown]&lt;br&gt;1 Agi&lt;br&gt;1 Str&lt;br&gt;1 Foc&lt;br&gt;1 Int</personality2>
+		<eggSprite>media\sprites\witchForbiddenEgg.webp</eggSprite>
+        <spriteM>media\sprites\witchForbiddenM.webp</spriteM>
+		<spriteF>media\sprites\witchForbiddenF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>media\artwork\witchForbiddenArt.webp</artwork>
+    </dragon>
+	<dragon>
+        <dragonName>Yurion</dragonName>
+        <eggDescription>This Egg shines very bright.</eggDescription>
+        <location>Wanderer (December 2023)</location>
+		<careOptions>Pat (Great)&lt;br&gt;Starburst (Excellent)&lt;br&gt;Feed (Great)&lt;br&gt;Wash (Fair)&lt;br&gt;Sleep (Hmm)&lt;br&gt;Play (Very Good)</careOptions>
+		<personality1>[Smart]&lt;br&gt;0 Agi&lt;br&gt;0 Str&lt;br&gt;5 Foc&lt;br&gt;30 Int</personality1>
+		<personality2>[Docile]&lt;br&gt;0 Agi&lt;br&gt;10 Str&lt;br&gt;10 Foc&lt;br&gt;20 Int</personality2>
+		<eggSprite>media\sprites\yurionEgg.webp</eggSprite>
+        <spriteM>media\sprites\yurionM.webp</spriteM>
+		<spriteF>media\sprites\yurionF.webp</spriteF>
+		<spriteN></spriteN>
+        <artwork>media\artwork\yurionArt.webp</artwork>
     </dragon>
 	<dragon>
         <dragonName>Zephyros</dragonName>
