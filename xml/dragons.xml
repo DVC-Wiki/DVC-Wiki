@@ -774,8 +774,8 @@
 		<personality1>[Adamant]&lt;br&gt;10 Agi&lt;br&gt;20 Str&lt;br&gt;10 Foc&lt;br&gt;0 Int</personality1>
 		<personality2>[Quirky]&lt;br&gt;10 Agi&lt;br&gt;25 Str&lt;br&gt;0 Foc&lt;br&gt;10 Int</personality2>
 		<eggSprite>media\sprites\clavisEgg.webp</eggSprite>
-        <spriteM>media\sprites\clavisM.webp</spriteM>
-		<spriteF>media\sprites\clavisF.webp</spriteF>
+        <spriteM>media\sprites\clavisChristmasM.webp</spriteM>
+		<spriteF>media\sprites\clavisChristmasF.webp</spriteF>
 		<spriteN></spriteN>
         <artwork>media\artwork\clavisArt.webp</artwork>
     </dragon>
